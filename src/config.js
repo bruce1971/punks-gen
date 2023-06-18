@@ -24,7 +24,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    single: null,
+    single: 4156,
     growEditionSizeTo: 20,
     layersOrder: [
       { name: "Skin Tone-Male" },
