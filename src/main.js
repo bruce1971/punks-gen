@@ -340,7 +340,8 @@ const customLayerConstruct = (i, _layers = []) => {
   let single = layerConfigurations[0].single;
   if (single && !Number.isInteger(single)) rawData = single;
 
-  const gender = rawData[i.toString()].gender;
+  let gender = rawData[i.toString()].gender;
+  if (gender === 'Unhuman') gender = 'Male';
   const layers = _layers.filter(el => el.name.includes(gender));
   const skin = rawData[i.toString()].skin;
   const traits = rawData[i.toString()].traits;

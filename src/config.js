@@ -24,7 +24,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    single: 7804,
+    single: 2386,
     // single: {"0": {
     //   traits: [
     //     '3D Glasses',

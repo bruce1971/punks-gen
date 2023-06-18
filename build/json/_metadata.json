@@ -1,12 +1,25 @@
 [
   {
-    "name": "Your Collection #7804",
+    "name": "Your Collection #2386",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/7804.png",
-    "dna": "d6e2d9a8999537b85fab7b8122f9678931d31549",
-    "edition": 7804,
-    "date": 1687125862883,
-    "attributes": [],
+    "image": "ipfs://NewUriToReplace/2386.png",
+    "dna": "6d91837a09cd730d8ec382e08b9774dbe9d0bb59",
+    "edition": 2386,
+    "date": 1687127095447,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Ape"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Headband"
+      },
+      {
+        "trait_type": "Glasses-Male",
+        "value": "Small Shades"
+      }
+    ],
     "compiler": "HashLips Art Engine"
   }
 ]
