@@ -1,0 +1,19 @@
+{
+  "name": "Your Collection #9",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "dna": "95def7c10849578e0c8816c93400a571c00f3499",
+  "edition": 9,
+  "date": 1687104308146,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Beard-Male",
+      "value": "Big Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

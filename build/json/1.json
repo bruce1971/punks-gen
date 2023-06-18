@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection #1",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "86f467abe51da789513be05cf30c7a93f6ac4227",
+  "edition": 1,
+  "date": 1687104307871,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Mouth-Male",
+      "value": "Smile"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

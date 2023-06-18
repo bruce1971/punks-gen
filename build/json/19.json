@@ -1,0 +1,15 @@
+{
+  "name": "Your Collection #19",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/19.png",
+  "dna": "06f6079248e1f11939cd58c09dfd9a6951a505d2",
+  "edition": 19,
+  "date": 1687104308480,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Female",
+      "value": "Dark"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

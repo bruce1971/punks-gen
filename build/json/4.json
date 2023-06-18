@@ -1,0 +1,23 @@
+{
+  "name": "Your Collection #4",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "dna": "e948d8dc5c610350b8ce84c6ff0d08a24e0d518c",
+  "edition": 4,
+  "date": 1687104308009,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Glasses-Male",
+      "value": "Big Shades"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,350 @@
+[
+  {
+    "name": "Your Collection #0",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/0.png",
+    "dna": "009b521d1911026a950f25657a78edd3292946e9",
+    "edition": 0,
+    "date": 1687104307826,
+    "attributes": [],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "86f467abe51da789513be05cf30c7a93f6ac4227",
+    "edition": 1,
+    "date": 1687104307871,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Mohawk"
+      },
+      {
+        "trait_type": "Mouth-Male",
+        "value": "Smile"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "e703a1b8c23fbb139a537f6f5b4a29d0dddda34b",
+    "edition": 2,
+    "date": 1687104307904,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Female",
+        "value": "Light"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "465b3f7488d711b5ed97459fdbfbdf232c895306",
+    "edition": 3,
+    "date": 1687104307962,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Wild Hair"
+      },
+      {
+        "trait_type": "Glasses-Male",
+        "value": "Nerd Glasses"
+      },
+      {
+        "trait_type": "Mouth Prop-Male",
+        "value": "Pipe"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "e948d8dc5c610350b8ce84c6ff0d08a24e0d518c",
+    "edition": 4,
+    "date": 1687104308009,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Mid"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Wild Hair"
+      },
+      {
+        "trait_type": "Glasses-Male",
+        "value": "Big Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "67985b1efafa49c26bf4decde243f8e70098d85d",
+    "edition": 5,
+    "date": 1687104308020,
+    "attributes": [],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "aa117307a1cc6a8a36418058db0ff35bded6e16d",
+    "edition": 6,
+    "date": 1687104308050,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Mid"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "ace9d09c3db6567747aed14041cd6c56cc7a8b96",
+    "edition": 7,
+    "date": 1687104308060,
+    "attributes": [],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "96cf8ecccd9cd59613d8c52d7cb29ecb341af748",
+    "edition": 8,
+    "date": 1687104308110,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Messy Hair"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Luxurious Beard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "95def7c10849578e0c8816c93400a571c00f3499",
+    "edition": 9,
+    "date": 1687104308146,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Mid"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Big Beard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "0abe060997b3f227df284ba03eecc8f5425a7e23",
+    "edition": 10,
+    "date": 1687104308180,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Female",
+        "value": "Dark"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "9595b1740337800780659eaa96d11fb3722c2a6d",
+    "edition": 11,
+    "date": 1687104308189,
+    "attributes": [],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "686f0f48c22ec89aa258f6d9218678c24c9158b0",
+    "edition": 12,
+    "date": 1687104308220,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Female",
+        "value": "Dark"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "c4ed175f48536f7f9b909b488d8bf971719b53c4",
+    "edition": 13,
+    "date": 1687104308258,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Female",
+        "value": "Light"
+      },
+      {
+        "trait_type": "Glasses-Female",
+        "value": "Big Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "a7fd60b1ec30ffa8d9e0bd86c2645e926704124c",
+    "edition": 14,
+    "date": 1687104308297,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Female",
+        "value": "Dark"
+      },
+      {
+        "trait_type": "Mouth Prop-Female",
+        "value": "Pipe"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "f3c05295d277af7c8e058a94e9933a2f22bc4a8f",
+    "edition": 15,
+    "date": 1687104308349,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Albino"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Wild Hair"
+      },
+      {
+        "trait_type": "Glasses-Male",
+        "value": "Regular Shades"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Luxurious Beard"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "fe6ec1e1f7d2b92940193357246a34663ed07450",
+    "edition": 16,
+    "date": 1687104308382,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Mid"
+      },
+      {
+        "trait_type": "Glasses-Male",
+        "value": "Small Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "031703bddb9c195591221efb10223aefa198836a",
+    "edition": 17,
+    "date": 1687104308422,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Light"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Mohawk"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "c364e83ddf8ac08e5e02773953bf4536b92ee58e",
+    "edition": 18,
+    "date": 1687104308450,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Mid"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Your Collection #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "06f6079248e1f11939cd58c09dfd9a6951a505d2",
+    "edition": 19,
+    "date": 1687104308480,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Female",
+        "value": "Dark"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
