@@ -24,8 +24,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    single: null,
-    // single: 7634,
+    single: 7804,
     // single: {"0": {
     //   traits: [
     //     '3D Glasses',
@@ -35,13 +34,18 @@ const layerConfigurations = [
     //   skin: 'Mid',
     //   gender: 'Male'
     // }},
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 40,
     layersOrder: [
       { name: "Skin Tone-Male" },
       { name: "Skin Tone-Female" },
+      { name: "Ears-Male" },
+      { name: "Ears-Female" },
       { name: "Hair-Male" },
       { name: "Hair-Female" },
       { name: "Hat-Male" },
+      { name: "Eyes-Female" },
+      { name: "Eyes-Male" },
+      { name: "Glasses-Female" },
       { name: "Glasses-Male" },
       { name: "Blemish-Male" },
       { name: "Beard-Male" },
