@@ -1,0 +1,15 @@
+{
+  "name": "Your Collection #18",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "bf4ca6cc355c13b0c5f2c2f4853f591674428b34",
+  "edition": 18,
+  "date": 1687119176834,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Mid"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

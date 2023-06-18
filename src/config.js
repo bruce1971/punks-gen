@@ -24,13 +24,13 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    // single: null,
-    single: 7634,
+    single: null,
+    // single: 7634,
     // single: {"0": {
     //   traits: [
-    //     // '3D Glasses',
+    //     '3D Glasses',
     //     'Pipe',
-    //     // 'Hoodie',
+    //     'Hoodie',
     //   ],
     //   skin: 'Mid',
     //   gender: 'Male'

@@ -22,7 +22,7 @@ const {
   solanaMetadata,
   gif,
 } = require(`${basePath}/src/config.js`);
-const { rawData } = require(`${basePath}/src/raw_data.js`);
+let { rawData } = require(`${basePath}/src/raw_data.js`);
 const canvas = createCanvas(format.width, format.height);
 const ctx = canvas.getContext("2d");
 ctx.imageSmoothingEnabled = format.smoothing;
@@ -336,9 +336,9 @@ function shuffle(array) {
 }
 
 const customLayerConstruct = (i, _layers = []) => {
-  
+
   let single = layerConfigurations[0].single;
-  if (single && !Number.isInteger(single)) let rawData = single;
+  if (single && !Number.isInteger(single)) rawData = single;
 
   const gender = rawData[i.toString()].gender;
   const layers = _layers.filter(el => el.name.includes(gender));
@@ -443,9 +443,7 @@ const startCreating = async () => {
           addMetadata(newDna, abstractedIndexes[0]);
           saveMetaDataSingleFile(abstractedIndexes[0]);
           console.log(
-            `Created edition: ${abstractedIndexes[0]}, with DNA: ${sha1(
-              newDna
-            )}`
+            `Created punk: ${abstractedIndexes[0]}`
           );
         });
         dnaList.add(filterDNAOptions(newDna));

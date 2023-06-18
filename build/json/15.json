@@ -1,0 +1,27 @@
+{
+  "name": "Your Collection #15",
+  "description": "Remember to replace this description",
+  "image": "ipfs://NewUriToReplace/15.png",
+  "dna": "705b4a6068479bcb45d1ed18a50e86af73f96283",
+  "edition": 15,
+  "date": 1687119176730,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Glasses-Male",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Beard-Male",
+      "value": "Luxurious Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
