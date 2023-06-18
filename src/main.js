@@ -336,6 +336,10 @@ function shuffle(array) {
 }
 
 const customLayerConstruct = (i, _layers = []) => {
+  
+  let single = layerConfigurations[0].single;
+  if (single && !Number.isInteger(single)) let rawData = single;
+
   const gender = rawData[i.toString()].gender;
   const layers = _layers.filter(el => el.name.includes(gender));
   const skin = rawData[i.toString()].skin;
@@ -375,7 +379,11 @@ const startCreating = async () => {
     abstractedIndexes.push(i);
   }
   if (single) {
-    abstractedIndexes = [single];
+    if (Number.isInteger(single)) {
+      abstractedIndexes = [single];
+    } else {
+      abstractedIndexes = [0];
+    }
   }
   debugLogs
     ? console.log("Editions left to create: ", abstractedIndexes)
@@ -385,9 +393,8 @@ const startCreating = async () => {
       layerConfigurations[layerConfigIndex].layersOrder
     );
 
-
-    const start = single ? single : 0;
-    const end = single ? single + 1 : layerConfigurations[layerConfigIndex].growEditionSizeTo;
+    const start = single ? Number.isInteger(single) ? single : 0 : 0;
+    const end = single ? Number.isInteger(single) ? single + 1 : 1 : layerConfigurations[layerConfigIndex].growEditionSizeTo;
 
     for (var i = start; i < end; i++) {
       let newDna = createDna(layers);

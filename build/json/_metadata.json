@@ -1,12 +1,25 @@
 [
   {
-    "name": "Your Collection #4156",
+    "name": "Your Collection #7634",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/4156.png",
-    "dna": "9c6ce70e71fa43da88e51862e8569ecda2978868",
-    "edition": 4156,
-    "date": 1687105210982,
-    "attributes": [],
+    "image": "ipfs://NewUriToReplace/7634.png",
+    "dna": "9943dac1ae156d75288c5ba2c68c1ba26493bd8f",
+    "edition": 7634,
+    "date": 1687111937066,
+    "attributes": [
+      {
+        "trait_type": "Skin Tone-Male",
+        "value": "Mid"
+      },
+      {
+        "trait_type": "Glasses-Male",
+        "value": "Big Shades"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Front Beard"
+      }
+    ],
     "compiler": "HashLips Art Engine"
   }
 ]
