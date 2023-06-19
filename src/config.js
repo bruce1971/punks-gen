@@ -5,8 +5,8 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "Your Collection";
-const description = "Remember to replace this description";
+const namePrefix = "Foreverpunk";
+const description = "3D models of paying tribute to the 10,000 original Cryptopunks.";
 const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
@@ -24,19 +24,19 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    // single: 4211,
-    single: {"0": {
-      traits: [
-        'Red Mohawk',
-        'Eye Patch',
-        'Earring',
-        // 'Big Shades',
-        // 'Luxurious Beard',
-      ],
-      skin: 'Albino',
-      gender: 'Female'
-    }},
-    growEditionSizeTo: 40,
+    single: 7804,
+    // single: {"0": {
+    //   traits: [
+    //     'Shaved Head',
+    //     // 'Earring',
+    //     // 'Pipe',
+    //     // 'Big Shades',
+    //     // 'Luxurious Beard',
+    //   ],
+    //   skin: 'Light',
+    //   gender: 'Male'
+    // }},
+    growEditionSizeTo: 10000,
     layersOrder: [
       { name: "Skin Tone-Male" },
       { name: "Skin Tone-Female" },

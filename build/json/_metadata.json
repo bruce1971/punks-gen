@@ -1,27 +1,27 @@
 [
   {
-    "name": "Your Collection #0",
-    "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/0.png",
-    "dna": "60045548b2c1697e372a92b2e7693bfd21be6277",
-    "edition": 0,
-    "date": 1687162408759,
+    "name": "Foreverpunk #7804",
+    "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+    "image": "ipfs://NewUriToReplace/7804.png",
+    "dna": "a6e72256b6bee083500c9fbd9561df4eaee2358e",
+    "edition": 7804,
+    "date": 1687203803548,
     "attributes": [
       {
-        "trait_type": "Skin Tone-Female",
-        "value": "Albino"
+        "trait_type": "Skin Tone-Male",
+        "value": "Alien"
       },
       {
-        "trait_type": "Ears-Female",
-        "value": "Earring"
+        "trait_type": "Hat-Male",
+        "value": "Cap Forward"
       },
       {
-        "trait_type": "Hair-Female",
-        "value": "Red Mohawk"
+        "trait_type": "Glasses-Male",
+        "value": "Small Shades"
       },
       {
-        "trait_type": "Glasses-Female",
-        "value": "Eye Patch"
+        "trait_type": "Mouth Prop-Male",
+        "value": "Pipe"
       }
     ],
     "compiler": "HashLips Art Engine"
