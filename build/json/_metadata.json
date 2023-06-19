@@ -1,23 +1,27 @@
 [
   {
-    "name": "Your Collection #2386",
+    "name": "Your Collection #0",
     "description": "Remember to replace this description",
-    "image": "ipfs://NewUriToReplace/2386.png",
-    "dna": "6d91837a09cd730d8ec382e08b9774dbe9d0bb59",
-    "edition": 2386,
-    "date": 1687127095447,
+    "image": "ipfs://NewUriToReplace/0.png",
+    "dna": "60045548b2c1697e372a92b2e7693bfd21be6277",
+    "edition": 0,
+    "date": 1687162408759,
     "attributes": [
       {
-        "trait_type": "Skin Tone-Male",
-        "value": "Ape"
+        "trait_type": "Skin Tone-Female",
+        "value": "Albino"
       },
       {
-        "trait_type": "Hat-Male",
-        "value": "Headband"
+        "trait_type": "Ears-Female",
+        "value": "Earring"
       },
       {
-        "trait_type": "Glasses-Male",
-        "value": "Small Shades"
+        "trait_type": "Hair-Female",
+        "value": "Red Mohawk"
+      },
+      {
+        "trait_type": "Glasses-Female",
+        "value": "Eye Patch"
       }
     ],
     "compiler": "HashLips Art Engine"
