@@ -24,19 +24,21 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    single: 7804,
-    // single: {"0": {
-    //   traits: [
-    //     'Shaved Head',
-    //     // 'Earring',
-    //     // 'Pipe',
-    //     // 'Big Shades',
-    //     // 'Luxurious Beard',
-    //   ],
-    //   skin: 'Light',
-    //   gender: 'Male'
-    // }},
-    growEditionSizeTo: 10000,
+    // single: 7804,
+    single: {"0": {
+      traits: [
+        // 'Top Hat',
+        'Earring',
+        // 'Buck Teeth',
+        // 'Classic Shades',
+        // 'Mole',
+        // 'Cigarette',
+        // 'Big Beard',
+      ],
+      skin: 'Mid',
+      gender: 'Male'
+    }},
+    growEditionSizeTo: 100,
     layersOrder: [
       { name: "Skin Tone-Male" },
       { name: "Skin Tone-Female" },
@@ -45,18 +47,23 @@ const layerConfigurations = [
       { name: "Hair-Male" },
       { name: "Hair-Female" },
       { name: "Hat-Male" },
+      { name: "Hat-Female" },
       { name: "Eyes-Female" },
       { name: "Eyes-Male" },
       { name: "Glasses-Female" },
       { name: "Glasses-Male" },
       { name: "Blemish-Male" },
+      { name: "Blemish-Female" },
       { name: "Beard-Male" },
+      { name: "Mouth Makeup-Female" },
       { name: "Mouth-Male" },
       { name: "Mouth-Female" },
       { name: "Neck-Male" },
       { name: "Neck-Female" },
       { name: "Mouth Prop-Male" },
       { name: "Mouth Prop-Female" },
+      { name: "Nose-Male" },
+      { name: "Nose-Female" },
     ],
   },
 ];
