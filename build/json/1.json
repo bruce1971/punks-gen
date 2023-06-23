@@ -1,0 +1,23 @@
+{
+  "name": "Foreverpunk #1",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/1.png",
+  "dna": "dff64b93dd1632e86197b05cc4835ef4a6073fa6",
+  "edition": 1,
+  "date": 1687519143380,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mouth-Male",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Mohawk"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

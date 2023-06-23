@@ -24,7 +24,7 @@ const solanaMetadata = {
 // If you have selected Solana then the collection starts from 0 automatically
 const layerConfigurations = [
   {
-    single: 9495,
+    // single: 8152,
     // single: {"0": {
     //   traits: [
     //     // 'Top Hat',
@@ -42,24 +42,23 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Skin Tone-Male" },
       { name: "Skin Tone-Female" },
+      { name: "Neck-Male" },
+      { name: "Neck-Female" },
+      { name: "Blemish-Male" },
+      { name: "Blemish-Female" },
       { name: "Ears-Male" },
       { name: "Ears-Female" },
+      { name: "Mouth-Male" },
+      { name: "Mouth-Female" },
+      { name: "Eyes-Female" },
+      { name: "Eyes-Male" },
       { name: "Hair-Male" },
       { name: "Hair-Female" },
       { name: "Hat-Male" },
       { name: "Hat-Female" },
-      { name: "Eyes-Female" },
-      { name: "Eyes-Male" },
-      { name: "Blemish-Male" },
-      { name: "Blemish-Female" },
+      { name: "Beard-Male" },
       { name: "Glasses-Female" },
       { name: "Glasses-Male" },
-      { name: "Beard-Male" },
-      { name: "Mouth Makeup-Female" },
-      { name: "Mouth-Male" },
-      { name: "Mouth-Female" },
-      { name: "Neck-Male" },
-      { name: "Neck-Female" },
       { name: "Mouth Prop-Male" },
       { name: "Mouth Prop-Female" },
       { name: "Nose-Male" },

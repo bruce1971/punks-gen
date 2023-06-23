@@ -1,0 +1,35 @@
+{
+  "name": "Foreverpunk #173",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/173.png",
+  "dna": "4605bab4259311ad0deb217d42f10bfc7fdab8fc",
+  "edition": 173,
+  "date": 1687519150694,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Female",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Blemish-Female",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Mouth-Female",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Eyes-Female",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Hair-Female",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Mouth Prop-Female",
+      "value": "Pipe"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

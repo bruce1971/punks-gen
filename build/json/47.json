@@ -1,0 +1,19 @@
+{
+  "name": "Foreverpunk #47",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/47.png",
+  "dna": "3774df6c853c7e39c31e3476c5f3b29405cf6b4f",
+  "edition": 47,
+  "date": 1687519145364,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hat-Male",
+      "value": "Knitted Cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

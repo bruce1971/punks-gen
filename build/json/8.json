@@ -1,0 +1,23 @@
+{
+  "name": "Foreverpunk #8",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/8.png",
+  "dna": "41d07bcca1d25d7bb2f77fd40c2c155427b79cd0",
+  "edition": 8,
+  "date": 1687519143718,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Beard-Male",
+      "value": "Luxurious Beard"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

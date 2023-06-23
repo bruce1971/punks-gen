@@ -1,0 +1,23 @@
+{
+  "name": "Foreverpunk #123",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/123.png",
+  "dna": "e073afc92fb9deb1ba3c28c4f078504cade35a71",
+  "edition": 123,
+  "date": 1687519148540,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Female",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Blemish-Female",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Hair-Female",
+      "value": "Wild White Hair"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

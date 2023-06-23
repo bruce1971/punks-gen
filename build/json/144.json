@@ -1,0 +1,23 @@
+{
+  "name": "Foreverpunk #144",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/144.png",
+  "dna": "a9087d994c9a99a42a1ea5741aaf7eca8a0071ba",
+  "edition": 144,
+  "date": 1687519149459,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Beard-Male",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Mouth Prop-Male",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

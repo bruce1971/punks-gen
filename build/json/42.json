@@ -1,0 +1,19 @@
+{
+  "name": "Foreverpunk #42",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/42.png",
+  "dna": "d498e908913c123bae5a3ef3c057351570780710",
+  "edition": 42,
+  "date": 1687519145160,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Female",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Mouth Prop-Female",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

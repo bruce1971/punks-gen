@@ -1,0 +1,19 @@
+{
+  "name": "Foreverpunk #114",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/114.png",
+  "dna": "e3ded2f39dd6a125418dbb8b64f272de7370f988",
+  "edition": 114,
+  "date": 1687519148168,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Female",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Hair-Female",
+      "value": "Red Mohawk"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

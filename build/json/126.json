@@ -1,0 +1,31 @@
+{
+  "name": "Foreverpunk #126",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/126.png",
+  "dna": "e9a94b73bcd3378a3bdc5c32b12d0630b2f26015",
+  "edition": 126,
+  "date": 1687519148669,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Albino"
+    },
+    {
+      "trait_type": "Ears-Male",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Hat-Male",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Glasses-Male",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Mouth Prop-Male",
+      "value": "Cigarette"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

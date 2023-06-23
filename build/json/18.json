@@ -1,0 +1,19 @@
+{
+  "name": "Foreverpunk #18",
+  "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
+  "image": "ipfs://NewUriToReplace/18.png",
+  "dna": "5672c1632e3657942fdbb5fafecbd6ac9b060bb6",
+  "edition": 18,
+  "date": 1687519144153,
+  "attributes": [
+    {
+      "trait_type": "Skin Tone-Male",
+      "value": "Mid"
+    },
+    {
+      "trait_type": "Glasses-Male",
+      "value": "Eye Mask"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
