@@ -2,9 +2,9 @@
   "name": "Foreverpunk #170",
   "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
   "image": "ipfs://NewUriToReplace/170.png",
-  "dna": "7769874c5654a1b45d4e3ec0718d7275fb5ab31d",
+  "dna": "85e2342e303d8b73aee68c9dfe479824ececc70b",
   "edition": 170,
-  "date": 1687519150548,
+  "date": 1687620161030,
   "attributes": [
     {
       "trait_type": "Skin Tone-Male",
@@ -13,6 +13,10 @@
     {
       "trait_type": "Blemish-Male",
       "value": "Mole"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Glasses-Male",

@@ -3,9 +3,9 @@
     "name": "Foreverpunk #0",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/0.png",
-    "dna": "1d0eccabb1d7e963566574a7f4033f164c3ee071",
+    "dna": "adb438d732883c46168de814a823da046f2c621d",
     "edition": 0,
-    "date": 1687519143335,
+    "date": 1687620153418,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -30,9 +30,9 @@
     "name": "Foreverpunk #1",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/1.png",
-    "dna": "dff64b93dd1632e86197b05cc4835ef4a6073fa6",
+    "dna": "0eb4267c82e475fab646f4f89d800a459c484714",
     "edition": 1,
-    "date": 1687519143380,
+    "date": 1687620153464,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -53,9 +53,9 @@
     "name": "Foreverpunk #2",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/2.png",
-    "dna": "4e166dad6d5a7d4dd85d424011d7dc7afafb44c5",
+    "dna": "14967f225c08432455718cfce7db91985baa7a48",
     "edition": 2,
-    "date": 1687519143416,
+    "date": 1687620153499,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -68,9 +68,9 @@
     "name": "Foreverpunk #3",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/3.png",
-    "dna": "7633864d0a331c6a78eab9956a333187262c0d36",
+    "dna": "73b0808fe6ca95969e2c35c1c7650c52272a63ef",
     "edition": 3,
-    "date": 1687519143475,
+    "date": 1687620153561,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -95,9 +95,9 @@
     "name": "Foreverpunk #4",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/4.png",
-    "dna": "5544a48fc9e94f9d7100a5685b62b3765f9be69f",
+    "dna": "5a411362d8eca0f9c7cef4703b4a5570457b1f82",
     "edition": 4,
-    "date": 1687519143537,
+    "date": 1687620153616,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -126,9 +126,9 @@
     "name": "Foreverpunk #5",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/5.png",
-    "dna": "c5ece0af0c3b43e3c93fd1eeac234c51ddb20fe5",
+    "dna": "84d9c3a9504a4d736c2db1e0f8d9b396c3e68030",
     "edition": 5,
-    "date": 1687519143585,
+    "date": 1687620153667,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -153,13 +153,17 @@
     "name": "Foreverpunk #6",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/6.png",
-    "dna": "1d8a58520a5f9f1a9d3b0990101f71a3209e222c",
+    "dna": "fee9ad74a2287322bf2e6f67fab8c82764846310",
     "edition": 6,
-    "date": 1687519143616,
+    "date": 1687620153702,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -168,9 +172,9 @@
     "name": "Foreverpunk #7",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/7.png",
-    "dna": "dc060bf5b1f76fe55c277dc89f90646855b0e487",
+    "dna": "4d570dc023cbb52e27ecc73d3223f07284ae08cd",
     "edition": 7,
-    "date": 1687519143666,
+    "date": 1687620153754,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -195,9 +199,9 @@
     "name": "Foreverpunk #8",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/8.png",
-    "dna": "41d07bcca1d25d7bb2f77fd40c2c155427b79cd0",
+    "dna": "bde9e5891b8882dc8fca0328827b3b8f6246d0af",
     "edition": 8,
-    "date": 1687519143718,
+    "date": 1687620153805,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -218,9 +222,9 @@
     "name": "Foreverpunk #9",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/9.png",
-    "dna": "fc60a12031fcbec7f6816db3fa641b8b834bf960",
+    "dna": "63b4c29bd29848e43ef17951b29cda7842a3c4d7",
     "edition": 9,
-    "date": 1687519143768,
+    "date": 1687620153856,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -245,9 +249,9 @@
     "name": "Foreverpunk #10",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/10.png",
-    "dna": "4dbf53d6c7fe4c2ff48b6b643a8c517c2a2d44de",
+    "dna": "7f03c67a128bce8ae9b572137dede2aace01c613",
     "edition": 10,
-    "date": 1687519143812,
+    "date": 1687620153898,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -268,9 +272,9 @@
     "name": "Foreverpunk #11",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/11.png",
-    "dna": "cf8ba27d284d51236cf0de18945bfbeb3a75e3af",
+    "dna": "efa2b2559d384714822b999a469d9d14c8904131",
     "edition": 11,
-    "date": 1687519143853,
+    "date": 1687620153938,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -295,9 +299,9 @@
     "name": "Foreverpunk #12",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/12.png",
-    "dna": "78d0e2ffe1a59fb8ec466c9ec5e05f64bebc7318",
+    "dna": "1ed5cd1cd761b20cf678a612f4a0238814746051",
     "edition": 12,
-    "date": 1687519143886,
+    "date": 1687620153978,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -306,6 +310,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Purple Lipstick"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Blonde Short"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -314,9 +322,9 @@
     "name": "Foreverpunk #13",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/13.png",
-    "dna": "811a3e41b31ad5a0035988c0a9cc5192739261d8",
+    "dna": "5e2857aca3fd72d3362c04576ebd0ea2a4912ec1",
     "edition": 13,
-    "date": 1687519143939,
+    "date": 1687620154026,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -341,9 +349,9 @@
     "name": "Foreverpunk #14",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/14.png",
-    "dna": "0bb9598fea6416be1f03be0d9420fb5ea7355c0b",
+    "dna": "556fc11b47bdcf8125ce3443ac6c8724c8e35087",
     "edition": 14,
-    "date": 1687519143982,
+    "date": 1687620154069,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -364,9 +372,9 @@
     "name": "Foreverpunk #15",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/15.png",
-    "dna": "d87b9309c9499a45799a4c58c23d79e3c812ac9f",
+    "dna": "3a6f4edfd0f39c9c00b2963deebde01c3d2253cc",
     "edition": 15,
-    "date": 1687519144038,
+    "date": 1687620154126,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -391,9 +399,9 @@
     "name": "Foreverpunk #16",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/16.png",
-    "dna": "d1f8d869f55dbf97a3c410b008ec9305041ca93a",
+    "dna": "7f13d71a6ba00c2602aa60a64402f291098621ed",
     "edition": 16,
-    "date": 1687519144076,
+    "date": 1687620154169,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -414,9 +422,9 @@
     "name": "Foreverpunk #17",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/17.png",
-    "dna": "0b4bce4a01d8b6077be59d9bc52047d8d5e0c10b",
+    "dna": "0ef5a48312c3b646a0960464f692b0d7cffb24e4",
     "edition": 17,
-    "date": 1687519144119,
+    "date": 1687620154212,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -437,13 +445,17 @@
     "name": "Foreverpunk #18",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/18.png",
-    "dna": "5672c1632e3657942fdbb5fafecbd6ac9b060bb6",
+    "dna": "6348dfc8ed4e940a38ffe5e0cfba21c20a3881ac",
     "edition": 18,
-    "date": 1687519144153,
+    "date": 1687620154250,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       },
       {
         "trait_type": "Glasses-Male",
@@ -456,9 +468,9 @@
     "name": "Foreverpunk #19",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/19.png",
-    "dna": "f57df379ecbe2258dc1b2146a57d9a7e422094fc",
+    "dna": "2eb8cee35ab9756d79146d3cc02705a72dac2957",
     "edition": 19,
-    "date": 1687519144198,
+    "date": 1687620154298,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -483,9 +495,9 @@
     "name": "Foreverpunk #20",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/20.png",
-    "dna": "c787e7f47e5178499824f64745d3a1d9ef5d113f",
+    "dna": "89d74e5d012fab5809cff7b8666fdd64ab7704d2",
     "edition": 20,
-    "date": 1687519144242,
+    "date": 1687620154342,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -502,9 +514,9 @@
     "name": "Foreverpunk #21",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/21.png",
-    "dna": "1d4b6c09acb23f7b2201b474dc4733bb463458c0",
+    "dna": "0cb2f4b6c5c5561762c41268c5004bcabd221683",
     "edition": 21,
-    "date": 1687519144296,
+    "date": 1687620154398,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -529,9 +541,9 @@
     "name": "Foreverpunk #22",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/22.png",
-    "dna": "b1fbc03ee900e93620772a5111813d5383da178d",
+    "dna": "bdd9c23f18ebbfc3e871c3e147f8e59afe0f767f",
     "edition": 22,
-    "date": 1687519144331,
+    "date": 1687620154431,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -548,9 +560,9 @@
     "name": "Foreverpunk #23",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/23.png",
-    "dna": "7b27b3fdf0c33a6f407a8a4d5e5b96215d4858bb",
+    "dna": "766573af00a32730d28dc7e620601cacabc21379",
     "edition": 23,
-    "date": 1687519144374,
+    "date": 1687620154480,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -559,6 +571,10 @@
       {
         "trait_type": "Ears-Male",
         "value": "Earring"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       },
       {
         "trait_type": "Beard-Male",
@@ -571,9 +587,9 @@
     "name": "Foreverpunk #24",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/24.png",
-    "dna": "e2b9cac62c9c04aaba28f6e86f7429eb5eba8448",
+    "dna": "2f3a23955389a4751c35b52e6a197f9141e3186b",
     "edition": 24,
-    "date": 1687519144414,
+    "date": 1687620154521,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -594,9 +610,9 @@
     "name": "Foreverpunk #25",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/25.png",
-    "dna": "e9a87e05eb37f60489b97bf75d44d19ae1f5c0db",
+    "dna": "3700f4fb5417ddc70f1557b657befe4927f905d9",
     "edition": 25,
-    "date": 1687519144453,
+    "date": 1687620154560,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -613,13 +629,17 @@
     "name": "Foreverpunk #26",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/26.png",
-    "dna": "ebb81f89b76b29027950687f8a577667b4c6f606",
+    "dna": "007217409a6081bde61fb7a1c7c9765c15d9b602",
     "edition": 26,
-    "date": 1687519144484,
+    "date": 1687620154600,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Dark Hair"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -628,9 +648,9 @@
     "name": "Foreverpunk #27",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/27.png",
-    "dna": "fec34722032105d56c9856de7abbb2770b175c43",
+    "dna": "49250da51b7a783190bf1bfef586481aa792937e",
     "edition": 27,
-    "date": 1687519144521,
+    "date": 1687620154653,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -639,6 +659,10 @@
       {
         "trait_type": "Ears-Male",
         "value": "Earring"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -647,9 +671,9 @@
     "name": "Foreverpunk #28",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/28.png",
-    "dna": "7e1ac972e06949994e9360bec58d6ae29622665f",
+    "dna": "82b91348613d3e36909b3453c4d669faf9a0dfaa",
     "edition": 28,
-    "date": 1687519144570,
+    "date": 1687620154704,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -670,9 +694,9 @@
     "name": "Foreverpunk #29",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/29.png",
-    "dna": "13c88e4245f2a50b58928cfcd674c0db30fba375",
+    "dna": "9fda414f0f328c647907748af3d8980b34edb30d",
     "edition": 29,
-    "date": 1687519144620,
+    "date": 1687620154759,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -697,9 +721,9 @@
     "name": "Foreverpunk #30",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/30.png",
-    "dna": "5ecd098a481550736e9aa390e678726244c09e81",
+    "dna": "6de985adfa33ccc01f07df9b6dbc9bc1b9bc140f",
     "edition": 30,
-    "date": 1687519144659,
+    "date": 1687620154800,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -716,9 +740,9 @@
     "name": "Foreverpunk #31",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/31.png",
-    "dna": "84e66a47fef40ca3df43132a21ca09b043107a2b",
+    "dna": "f81984b1f43367ee59524d09c3ee7a71309f2791",
     "edition": 31,
-    "date": 1687519144689,
+    "date": 1687620154833,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -731,9 +755,9 @@
     "name": "Foreverpunk #32",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/32.png",
-    "dna": "22502da91078425038d93cf62c01f22c4d7fb31a",
+    "dna": "3a7939c114924eaaa1257f4ae4c15ff5714c8fa3",
     "edition": 32,
-    "date": 1687519144731,
+    "date": 1687620154877,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -754,13 +778,17 @@
     "name": "Foreverpunk #33",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/33.png",
-    "dna": "f116850e8d1d85c47441df2d2b7a81123fe3cef2",
+    "dna": "04f413dd9b151322b476460e8f3491f55f6113c2",
     "edition": 33,
-    "date": 1687519144765,
+    "date": 1687620154921,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -769,9 +797,9 @@
     "name": "Foreverpunk #34",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/34.png",
-    "dna": "50de43cbaeb4e896e9bbf796a4eba375aa2115db",
+    "dna": "d97816827a9d7062734dffabbc8a282834fd8061",
     "edition": 34,
-    "date": 1687519144804,
+    "date": 1687620154959,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -788,9 +816,9 @@
     "name": "Foreverpunk #35",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/35.png",
-    "dna": "aaa6ec8fac81f2792f654373f21786bf8c828ca8",
+    "dna": "cee54fda6360203177a3111b68c936cc50f63b19",
     "edition": 35,
-    "date": 1687519144869,
+    "date": 1687620155035,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -799,6 +827,10 @@
       {
         "trait_type": "Ears-Male",
         "value": "Earring"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       },
       {
         "trait_type": "Beard-Male",
@@ -819,9 +851,9 @@
     "name": "Foreverpunk #36",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/36.png",
-    "dna": "d0917c5035c04ffa6e8b089055ae76ae8f50f0ad",
+    "dna": "1e1c4033b8a84b0fa8d93aad497ade7931200e18",
     "edition": 36,
-    "date": 1687519144909,
+    "date": 1687620155076,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -838,9 +870,9 @@
     "name": "Foreverpunk #37",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/37.png",
-    "dna": "c0e92507e77b908c978c96289bcb0f2f87b47de2",
+    "dna": "a743df7df584c98c59376207d770dc44d65ae577",
     "edition": 37,
-    "date": 1687519144945,
+    "date": 1687620155111,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -857,9 +889,9 @@
     "name": "Foreverpunk #38",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/38.png",
-    "dna": "6c03f389f3a9adbc7ff59cc4e0d2de309da46207",
+    "dna": "cfcf478eb922b417f26e7e2bbd0bc0d480f56736",
     "edition": 38,
-    "date": 1687519144981,
+    "date": 1687620155153,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -868,6 +900,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Purple Lipstick"
+      },
+      {
+        "trait_type": "Glasses-Female",
+        "value": "Classic Shades"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -876,9 +912,9 @@
     "name": "Foreverpunk #39",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/39.png",
-    "dna": "32e78710539454368f2225e36b51f39d8778ddf8",
+    "dna": "b79c701fa7825c530021bb70b7d1b16e955951de",
     "edition": 39,
-    "date": 1687519145025,
+    "date": 1687620155201,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -903,9 +939,9 @@
     "name": "Foreverpunk #40",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/40.png",
-    "dna": "fe5ce35fae80bbe6bc58801a4e41c834ae00edf5",
+    "dna": "54e377a039d067e4ece6276a98cc08d7f88926f5",
     "edition": 40,
-    "date": 1687519145075,
+    "date": 1687620155255,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -930,9 +966,9 @@
     "name": "Foreverpunk #41",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/41.png",
-    "dna": "eb0ad44bfac85701b66b9d09b4afb82ab27db122",
+    "dna": "7ec0ad0c9970c868a8e902f7af5360a55ba8299a",
     "edition": 41,
-    "date": 1687519145123,
+    "date": 1687620155314,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -945,6 +981,10 @@
       {
         "trait_type": "Hair-Male",
         "value": "Wild Hair"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -953,9 +993,9 @@
     "name": "Foreverpunk #42",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/42.png",
-    "dna": "d498e908913c123bae5a3ef3c057351570780710",
+    "dna": "7914a359b3e087781b45c2d3d22bf2bdeb76a055",
     "edition": 42,
-    "date": 1687519145160,
+    "date": 1687620155354,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -972,9 +1012,9 @@
     "name": "Foreverpunk #43",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/43.png",
-    "dna": "876c58fa56f3d4057699fed9b222b77a10770325",
+    "dna": "bbbe714b6e9c348f70910b3d2c4fcf8bc5153936",
     "edition": 43,
-    "date": 1687519145204,
+    "date": 1687620155397,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -991,9 +1031,9 @@
     "name": "Foreverpunk #44",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/44.png",
-    "dna": "e78399717ec7095256f0ccab984f5a168bead6c0",
+    "dna": "90307a0b386652e9ff0feabf24ca4384db218365",
     "edition": 44,
-    "date": 1687519145251,
+    "date": 1687620155443,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1010,9 +1050,9 @@
     "name": "Foreverpunk #45",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/45.png",
-    "dna": "70781769e5aef503ec7b682fa7b58e1445dd552e",
+    "dna": "6debcba863c281b941f70516cac8f032fd0641c5",
     "edition": 45,
-    "date": 1687519145287,
+    "date": 1687620155480,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1033,9 +1073,9 @@
     "name": "Foreverpunk #46",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/46.png",
-    "dna": "27b7fc7c6ab3d26d3bcd3db65618a41de693affc",
+    "dna": "b51598aa3bf60bc54c9fbb6f9d57c6ad202928f1",
     "edition": 46,
-    "date": 1687519145321,
+    "date": 1687620155516,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1056,9 +1096,9 @@
     "name": "Foreverpunk #47",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/47.png",
-    "dna": "3774df6c853c7e39c31e3476c5f3b29405cf6b4f",
+    "dna": "111f33c2f96c3f60429afe0ad75b578ae7b683f2",
     "edition": 47,
-    "date": 1687519145364,
+    "date": 1687620155564,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1075,9 +1115,9 @@
     "name": "Foreverpunk #48",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/48.png",
-    "dna": "8372733571cf777b1afd78bf0e65bd7a93c7ac0e",
+    "dna": "c19cb2d91d880a37315d964ff2318e2e431664e9",
     "edition": 48,
-    "date": 1687519145409,
+    "date": 1687620155612,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1098,9 +1138,9 @@
     "name": "Foreverpunk #49",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/49.png",
-    "dna": "881d14cb1d306ed28af7ddcf186a4f7b3b1cfd8d",
+    "dna": "7755345f1f19d97caac62a9c27ee80fce2849772",
     "edition": 49,
-    "date": 1687519145448,
+    "date": 1687620155653,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1121,9 +1161,9 @@
     "name": "Foreverpunk #50",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/50.png",
-    "dna": "d3d80198f1d17f76091b50b2fc682bf181e1f073",
+    "dna": "343eeba7e19257f5615a64d43c8486c1f3f87a4c",
     "edition": 50,
-    "date": 1687519145486,
+    "date": 1687620155694,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1144,9 +1184,9 @@
     "name": "Foreverpunk #51",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/51.png",
-    "dna": "413d032dd148e1cbd2a975c8693dd0349ecb28aa",
+    "dna": "0df360fd174ca922afb59de16156f319d846d766",
     "edition": 51,
-    "date": 1687519145535,
+    "date": 1687620155745,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1159,6 +1199,10 @@
       {
         "trait_type": "Hair-Male",
         "value": "Wild Hair"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -1167,9 +1211,9 @@
     "name": "Foreverpunk #52",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/52.png",
-    "dna": "4fe327dcc61ad9515db2fb0bd31a77dcc4c12968",
+    "dna": "a63ec915e27e89d1591d9cf44a530d42fc05b9f8",
     "edition": 52,
-    "date": 1687519145586,
+    "date": 1687620155803,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1198,9 +1242,9 @@
     "name": "Foreverpunk #53",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/53.png",
-    "dna": "4f84d6b8bdb0e5ed693aaa49b75b947647b6a9c0",
+    "dna": "8ba747f867b163a4f2e72f02ed89e68c7417b757",
     "edition": 53,
-    "date": 1687519145628,
+    "date": 1687620155848,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1221,9 +1265,9 @@
     "name": "Foreverpunk #54",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/54.png",
-    "dna": "6716d65b71c6172ed69ee71a15f93ab372de0fb8",
+    "dna": "d9e7308febdc7a52daa04c3df4576b428526ba3b",
     "edition": 54,
-    "date": 1687519145667,
+    "date": 1687620155890,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1240,9 +1284,9 @@
     "name": "Foreverpunk #55",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/55.png",
-    "dna": "7bac94e6ad06e4a16f3da4063fba5452cef8304e",
+    "dna": "fe3388718e276183c27906b723cd3031adaf2d17",
     "edition": 55,
-    "date": 1687519145707,
+    "date": 1687620155932,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1259,9 +1303,9 @@
     "name": "Foreverpunk #56",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/56.png",
-    "dna": "f0882dd20e43a5a6c6dc70fe806fc80f1e72c74a",
+    "dna": "6d3cfaf42eea2eae158398499da27435224d1e1f",
     "edition": 56,
-    "date": 1687519145744,
+    "date": 1687620155970,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1278,9 +1322,9 @@
     "name": "Foreverpunk #57",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/57.png",
-    "dna": "39596ce73f1a951098aeac19177a4cda25f5f38c",
+    "dna": "5f1e563887f4392749c8dc51bc00ce7e8c29cb00",
     "edition": 57,
-    "date": 1687519145785,
+    "date": 1687620156011,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1297,9 +1341,9 @@
     "name": "Foreverpunk #58",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/58.png",
-    "dna": "9862a71bcaf5b6d5c1ebad365e07904a3eeaab85",
+    "dna": "f1e39ce68274aca409266db5099b9cbb0b5e8ef8",
     "edition": 58,
-    "date": 1687519145827,
+    "date": 1687620156055,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1320,9 +1364,9 @@
     "name": "Foreverpunk #59",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/59.png",
-    "dna": "522edbb182a88313df573213847c1c1c7217fe4f",
+    "dna": "334fa20651764bc078c0dde26d3df58c69e84c8c",
     "edition": 59,
-    "date": 1687519145868,
+    "date": 1687620156104,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1331,6 +1375,10 @@
       {
         "trait_type": "Hat-Male",
         "value": "Cowboy Hat"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -1339,9 +1387,9 @@
     "name": "Foreverpunk #60",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/60.png",
-    "dna": "c5bab3d53907442b2dc7e3a0ae5fd028ebf4a817",
+    "dna": "a3e07f3ab595a0cd4202fbf6f599a0186ac01269",
     "edition": 60,
-    "date": 1687519145905,
+    "date": 1687620156142,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1358,13 +1406,17 @@
     "name": "Foreverpunk #61",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/61.png",
-    "dna": "5f17aa6a1d9b709a01e886603510ffdfd0b3fdd9",
+    "dna": "76c3263f30b1547b82d3451d7137f04fb00f089b",
     "edition": 61,
-    "date": 1687519145938,
+    "date": 1687620156183,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Dark Hair"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -1373,9 +1425,9 @@
     "name": "Foreverpunk #62",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/62.png",
-    "dna": "47c467bda70edff30f7184a065536c6555851985",
+    "dna": "3418973711b79b37330397b1df4cb32e34a6cf93",
     "edition": 62,
-    "date": 1687519145982,
+    "date": 1687620156229,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1404,9 +1456,9 @@
     "name": "Foreverpunk #63",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/63.png",
-    "dna": "97a9725040f39746e17d6faf968f9836d848dce5",
+    "dna": "8106e5c953444b5c79d68c2dfa025e58241e5043",
     "edition": 63,
-    "date": 1687519146027,
+    "date": 1687620156275,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1431,9 +1483,9 @@
     "name": "Foreverpunk #64",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/64.png",
-    "dna": "9d06af196d8e3cac57acf6107d29f559a7839ac4",
+    "dna": "55286f449de39a1496f10387df1b89b1e44addb5",
     "edition": 64,
-    "date": 1687519146069,
+    "date": 1687620156314,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1454,13 +1506,17 @@
     "name": "Foreverpunk #65",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/65.png",
-    "dna": "f17ee4648fb295eb248d5916fa17c9db4921d99a",
+    "dna": "c750a6f17578a92fff412db7bdc06ed89e3f8d6a",
     "edition": 65,
-    "date": 1687519146104,
+    "date": 1687620156365,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hat-Female",
+        "value": "Headband"
       },
       {
         "trait_type": "Glasses-Female",
@@ -1473,13 +1529,17 @@
     "name": "Foreverpunk #66",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/66.png",
-    "dna": "889fb8390dd129e3bfdf819d20310619c6f6c076",
+    "dna": "28febd80cf5b44ef756ed68ae67a16bfd474970c",
     "edition": 66,
-    "date": 1687519146134,
+    "date": 1687620156407,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Dark"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -1488,9 +1548,9 @@
     "name": "Foreverpunk #67",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/67.png",
-    "dna": "3e4c3272c12ddca24d9594f1e08f8312249172dc",
+    "dna": "1fb0c701853d1c7e1d5ab511b1699ace2bd273d7",
     "edition": 67,
-    "date": 1687519146179,
+    "date": 1687620156457,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1515,13 +1575,17 @@
     "name": "Foreverpunk #68",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/68.png",
-    "dna": "d08b154570341a9a83d6580b9917a1fae9db8982",
+    "dna": "f51db72234f359a4e09f9f887246e752f2c234bd",
     "edition": 68,
-    "date": 1687519146218,
+    "date": 1687620156500,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Dark"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       },
       {
         "trait_type": "Glasses-Male",
@@ -1534,9 +1598,9 @@
     "name": "Foreverpunk #69",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/69.png",
-    "dna": "2d4f17801d4f4519c1b0a41a058584aae6c81ea9",
+    "dna": "46f454d965c625d40b1d7e67b67338097c02e3cf",
     "edition": 69,
-    "date": 1687519146256,
+    "date": 1687620156540,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1557,9 +1621,9 @@
     "name": "Foreverpunk #70",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/70.png",
-    "dna": "c93683255fd788cddc05511ee9f6c52adb957f81",
+    "dna": "4558424149f72ad6d5b267c838da4b9abfa573d7",
     "edition": 70,
-    "date": 1687519146302,
+    "date": 1687620156587,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1584,9 +1648,9 @@
     "name": "Foreverpunk #71",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/71.png",
-    "dna": "60102dd5de4452d9bf00cdbf279bb321736e3cfd",
+    "dna": "dd79c8e4669f398040dd2a992867212b26b314b0",
     "edition": 71,
-    "date": 1687519146350,
+    "date": 1687620156638,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1611,9 +1675,9 @@
     "name": "Foreverpunk #72",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/72.png",
-    "dna": "c1d0bad3ac445b161f149ed49e9d4acb20e65f4b",
+    "dna": "96ab7d7582dfc2f2dd4a25147e35927cdddf0067",
     "edition": 72,
-    "date": 1687519146399,
+    "date": 1687620156688,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1642,9 +1706,9 @@
     "name": "Foreverpunk #73",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/73.png",
-    "dna": "d364696e76cdbb3981241ae28e4bd05a5c2d01c6",
+    "dna": "40f808c1594a76775d0f7e3a15d100e0c6fd2321",
     "edition": 73,
-    "date": 1687519146444,
+    "date": 1687620156731,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1669,9 +1733,9 @@
     "name": "Foreverpunk #74",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/74.png",
-    "dna": "0dec231bf3c91ae8c832870a9d4ff5f78b03bba4",
+    "dna": "9de16f886f4b9d22c80ce5bd8c964d58e7524017",
     "edition": 74,
-    "date": 1687519146488,
+    "date": 1687620156779,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1696,9 +1760,9 @@
     "name": "Foreverpunk #75",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/75.png",
-    "dna": "8c62990e22c00b0362fdd404fe1b244e299c5257",
+    "dna": "5f6abc9d43027ab83d30593ecdd871d1246ccbc8",
     "edition": 75,
-    "date": 1687519146540,
+    "date": 1687620156830,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1723,13 +1787,17 @@
     "name": "Foreverpunk #76",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/76.png",
-    "dna": "cce52ae1556a04329fb589b1e92806501f229c87",
+    "dna": "67cf03cfc5f3e3dcd700de645822fa85b2349680",
     "edition": 76,
-    "date": 1687519146581,
+    "date": 1687620156877,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       },
       {
         "trait_type": "Mouth Prop-Male",
@@ -1742,9 +1810,9 @@
     "name": "Foreverpunk #77",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/77.png",
-    "dna": "5c176bc84b24d30e10faae4da7d2d79e688d2dd1",
+    "dna": "9171d845ef46ad5f4ce2024919fe2204dcd302a2",
     "edition": 77,
-    "date": 1687519146619,
+    "date": 1687620156916,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1761,9 +1829,9 @@
     "name": "Foreverpunk #78",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/78.png",
-    "dna": "3c8112e48765f4b9c09772fdb46c7a2bda188bfb",
+    "dna": "33123226b31795d9f5ff5ad4881be920dfea821f",
     "edition": 78,
-    "date": 1687519146665,
+    "date": 1687620156964,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1788,9 +1856,9 @@
     "name": "Foreverpunk #79",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/79.png",
-    "dna": "1be9326a8bd02a9e46162ae38489305c79711852",
+    "dna": "e3eb4f4b6273a7ba274a8dbb28a284407872462e",
     "edition": 79,
-    "date": 1687519146706,
+    "date": 1687620157006,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1811,9 +1879,9 @@
     "name": "Foreverpunk #80",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/80.png",
-    "dna": "a92c2e411dfd566208689f410fc9dbe7fa558e63",
+    "dna": "73a49282d495a1d70f2665a56047cc68ad1f2e71",
     "edition": 80,
-    "date": 1687519146753,
+    "date": 1687620157054,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1834,9 +1902,9 @@
     "name": "Foreverpunk #81",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/81.png",
-    "dna": "1ea1245aea392f76fef70082b588ce6203206e72",
+    "dna": "51aff706828648a4220b822c7ce24814bf173f99",
     "edition": 81,
-    "date": 1687519146795,
+    "date": 1687620157102,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1857,9 +1925,9 @@
     "name": "Foreverpunk #82",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/82.png",
-    "dna": "71014968c03e4c41b648e3e03229131f977ae957",
+    "dna": "ba14b38e68dd76cfafee8772f31584a5c3dd57d1",
     "edition": 82,
-    "date": 1687519146834,
+    "date": 1687620157138,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1876,9 +1944,9 @@
     "name": "Foreverpunk #83",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/83.png",
-    "dna": "80c7a3706b868a1be5a3308d2daba30fb0f3587b",
+    "dna": "d3533dfb96cc9413a5d54726adcc9ab3eb855820",
     "edition": 83,
-    "date": 1687519146882,
+    "date": 1687620157186,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1903,9 +1971,9 @@
     "name": "Foreverpunk #84",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/84.png",
-    "dna": "80e6acae8b26f47a8ea9ef517a4fc1437d544ac2",
+    "dna": "6d8621dd804b5e51d61accf477ccc9e5153ce5e9",
     "edition": 84,
-    "date": 1687519146934,
+    "date": 1687620157242,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1930,9 +1998,9 @@
     "name": "Foreverpunk #85",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/85.png",
-    "dna": "c5c7161c34cf45f5d624091a2e920ebacced64bf",
+    "dna": "057bd6e22e33dc9ef3ec07f1152f8aaf600df1ff",
     "edition": 85,
-    "date": 1687519146964,
+    "date": 1687620157279,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1945,9 +2013,9 @@
     "name": "Foreverpunk #86",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/86.png",
-    "dna": "f4e58a2f91cbc6a599464a4039243ff5a1871113",
+    "dna": "c915a265d5a2ff20001389f82f797cb94f569487",
     "edition": 86,
-    "date": 1687519147002,
+    "date": 1687620157327,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -1964,6 +2032,10 @@
       {
         "trait_type": "Eyes-Female",
         "value": "Green Eye Shadow"
+      },
+      {
+        "trait_type": "Hat-Female",
+        "value": "Knitted Cap"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -1972,9 +2044,9 @@
     "name": "Foreverpunk #87",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/87.png",
-    "dna": "655a680ea7cd49553eeab82f39c9902d5ba65594",
+    "dna": "90768029c18815c2b6554e46955c981b851c55c0",
     "edition": 87,
-    "date": 1687519147045,
+    "date": 1687620157374,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -1995,9 +2067,9 @@
     "name": "Foreverpunk #88",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/88.png",
-    "dna": "cc5f2c4fe07d17f6d7ab28bead4bc7a3bff99825",
+    "dna": "33f66cdd5eb5c0d8d7ecc34a7626a5b7097f021f",
     "edition": 88,
-    "date": 1687519147084,
+    "date": 1687620157411,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2014,9 +2086,9 @@
     "name": "Foreverpunk #89",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/89.png",
-    "dna": "18477e7cf102e82920363f51a7978c6d147dae76",
+    "dna": "78da49f658f1e65ae33dda4ccd79a40b4c65b39a",
     "edition": 89,
-    "date": 1687519147117,
+    "date": 1687620157445,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2033,9 +2105,9 @@
     "name": "Foreverpunk #90",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/90.png",
-    "dna": "05be05594d511bc7c40c8aa7362739561090ccae",
+    "dna": "2e12f0cb9948efea34bd1d8d1ef2955688b7735a",
     "edition": 90,
-    "date": 1687519147160,
+    "date": 1687620157490,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2056,9 +2128,9 @@
     "name": "Foreverpunk #91",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/91.png",
-    "dna": "b78a9ffda4344e9a5e8eff979fa7d167011525dc",
+    "dna": "47948e42fde5408eba282fef7b179d8e92d369c8",
     "edition": 91,
-    "date": 1687519147198,
+    "date": 1687620157528,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2079,9 +2151,9 @@
     "name": "Foreverpunk #92",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/92.png",
-    "dna": "118800e39cba3011349967db52856199b34f3c51",
+    "dna": "ab346643b9564d35c667a3f6aa32c58c7d7e9328",
     "edition": 92,
-    "date": 1687519147239,
+    "date": 1687620157569,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2102,9 +2174,9 @@
     "name": "Foreverpunk #93",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/93.png",
-    "dna": "3a81c8fa4815777fd0cb477a3d9aa887c4d846b3",
+    "dna": "9f8a1ea2d213a92834f1ff157e5f8c18dce97235",
     "edition": 93,
-    "date": 1687519147279,
+    "date": 1687620157610,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2121,9 +2193,9 @@
     "name": "Foreverpunk #94",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/94.png",
-    "dna": "9d296bc102fec6a8eb44262bfd9f0ec90cdcc996",
+    "dna": "f48572bf95bff6926fdab3bc1ba21d8b3a2e19f1",
     "edition": 94,
-    "date": 1687519147317,
+    "date": 1687620157651,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2144,9 +2216,9 @@
     "name": "Foreverpunk #95",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/95.png",
-    "dna": "2ee612b77c76a40162f183270091f4bcf5294e45",
+    "dna": "a1fb026a90c42f10d2e9be87a444be0ccdef4479",
     "edition": 95,
-    "date": 1687519147357,
+    "date": 1687620157690,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2167,9 +2239,9 @@
     "name": "Foreverpunk #96",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/96.png",
-    "dna": "f95b502828b07dda4439fd74e47160d05abb1a02",
+    "dna": "910de55c4a83f72d0069bf8dda02b54b5fad747e",
     "edition": 96,
-    "date": 1687519147396,
+    "date": 1687620157731,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2186,9 +2258,9 @@
     "name": "Foreverpunk #97",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/97.png",
-    "dna": "a097557ee804bda5d3efc79d178ac2ddda93217d",
+    "dna": "deee5a3260b27fb33b90a1da6e311edcacbabce3",
     "edition": 97,
-    "date": 1687519147437,
+    "date": 1687620157773,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2205,9 +2277,9 @@
     "name": "Foreverpunk #98",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/98.png",
-    "dna": "0324bca17a4c70def652b364d9cc04ddab0b5cad",
+    "dna": "59a7af29d4d9c970610b4955c02090657353b841",
     "edition": 98,
-    "date": 1687519147479,
+    "date": 1687620157825,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2216,6 +2288,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Dark Hair"
       },
       {
         "trait_type": "Glasses-Female",
@@ -2228,9 +2304,9 @@
     "name": "Foreverpunk #99",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/99.png",
-    "dna": "bbf5c3ca291a050b04a99b6e5145eb83348c5d2a",
+    "dna": "341b3a0a3db105ee8a7aa5cbfa76f9dbe9513059",
     "edition": 99,
-    "date": 1687519147524,
+    "date": 1687620157870,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2251,13 +2327,17 @@
     "name": "Foreverpunk #100",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/100.png",
-    "dna": "0928254672cf68e6ef55226577de87cdea565c36",
+    "dna": "03b6f8a152ae9b276fc9e1480942536b20191223",
     "edition": 100,
-    "date": 1687519147556,
+    "date": 1687620157913,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -2266,9 +2346,9 @@
     "name": "Foreverpunk #101",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/101.png",
-    "dna": "e3eae26793d1505efa953cde890743f688046b14",
+    "dna": "9587362e506e62d97696d62d65dccb0d18cada2b",
     "edition": 101,
-    "date": 1687519147599,
+    "date": 1687620157960,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2289,9 +2369,9 @@
     "name": "Foreverpunk #102",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/102.png",
-    "dna": "0ec0235ade4d9afcae3e788c6433cc7e8a213379",
+    "dna": "68d4aa89957399a0f334c1154fd3cbaa32c72163",
     "edition": 102,
-    "date": 1687519147644,
+    "date": 1687620158003,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2312,9 +2392,9 @@
     "name": "Foreverpunk #103",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/103.png",
-    "dna": "5839b4cebc1c74786c01a6802156e184097c2d34",
+    "dna": "69ee2275de44f14b3a8b3f57ba81843fa2734770",
     "edition": 103,
-    "date": 1687519147687,
+    "date": 1687620158046,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2339,9 +2419,9 @@
     "name": "Foreverpunk #104",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/104.png",
-    "dna": "d7a8ab75e6b1ac530dbd7e7a547a0871ff306e43",
+    "dna": "334ff3349b0562df1ea28e55adf4a6abd73a41a2",
     "edition": 104,
-    "date": 1687519147743,
+    "date": 1687620158102,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2370,9 +2450,9 @@
     "name": "Foreverpunk #105",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/105.png",
-    "dna": "18f2f5700f3daecf1d9599599e3bab6326ae0ca4",
+    "dna": "238347b7ea6c82e3c08f9323472928db256334bc",
     "edition": 105,
-    "date": 1687519147783,
+    "date": 1687620158141,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2389,9 +2469,9 @@
     "name": "Foreverpunk #106",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/106.png",
-    "dna": "b7ac323b771c79f7adfb2bcc6b0afdeab7929f54",
+    "dna": "e8560dacb49e43a2b48abe56a16e4bdf59062d19",
     "edition": 106,
-    "date": 1687519147822,
+    "date": 1687620158178,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2408,9 +2488,9 @@
     "name": "Foreverpunk #107",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/107.png",
-    "dna": "3168874b307337a43b7e08ae22b0a695898e5428",
+    "dna": "7a28708cd6eeb9953c6a0ddc070c34b067f15886",
     "edition": 107,
-    "date": 1687519147856,
+    "date": 1687620158216,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2427,9 +2507,9 @@
     "name": "Foreverpunk #108",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/108.png",
-    "dna": "802355a76ed58e998525a141282b5d6f9e40bbe4",
+    "dna": "c670778ff72e723565b951a65774eed8ce18e526",
     "edition": 108,
-    "date": 1687519147895,
+    "date": 1687620158260,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2438,6 +2518,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Hat-Female",
+        "value": "Headband"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -2446,9 +2530,9 @@
     "name": "Foreverpunk #109",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/109.png",
-    "dna": "166ecfe439ef6ad6d8f7f89ef7cc1a4576885a79",
+    "dna": "536fea03cbbfb0c9670f0caadb6d9a4e84ce5536",
     "edition": 109,
-    "date": 1687519147944,
+    "date": 1687620158306,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2473,9 +2557,9 @@
     "name": "Foreverpunk #110",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/110.png",
-    "dna": "c3999e2fac3a5f2d22c8611713fc2dddc96d84de",
+    "dna": "249161a252d5f572a6cd0df4bf26164ad78bce0f",
     "edition": 110,
-    "date": 1687519147993,
+    "date": 1687620158354,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2504,9 +2588,9 @@
     "name": "Foreverpunk #111",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/111.png",
-    "dna": "72b384c7d1b35fdee46fd1e3291c72f6d366d6bd",
+    "dna": "5eb9f0eecc268b3665c455a35d103232999966d1",
     "edition": 111,
-    "date": 1687519148039,
+    "date": 1687620158400,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2527,9 +2611,9 @@
     "name": "Foreverpunk #112",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/112.png",
-    "dna": "627c3f8f86eef21e5df60192dfb80f75616ba255",
+    "dna": "a286298ec06e0f88dabeeb4a9d12f51b3f9b300d",
     "edition": 112,
-    "date": 1687519148092,
+    "date": 1687620158456,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2558,9 +2642,9 @@
     "name": "Foreverpunk #113",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/113.png",
-    "dna": "579565ca4853d05718c09828c61aff6a9505b574",
+    "dna": "a9163fdcd36af0c1477fbd762fda9b7060ee1bbf",
     "edition": 113,
-    "date": 1687519148129,
+    "date": 1687620158493,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2577,9 +2661,9 @@
     "name": "Foreverpunk #114",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/114.png",
-    "dna": "e3ded2f39dd6a125418dbb8b64f272de7370f988",
+    "dna": "145d0183c5aca73a61dad78277fd70c7607adbbe",
     "edition": 114,
-    "date": 1687519148168,
+    "date": 1687620158532,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2596,9 +2680,9 @@
     "name": "Foreverpunk #115",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/115.png",
-    "dna": "7b9351f88114ac6251baab7bf77eaa8a72880770",
+    "dna": "cae9091497f81f8240d39abc84e8883cd2141379",
     "edition": 115,
-    "date": 1687519148210,
+    "date": 1687620158573,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2619,9 +2703,9 @@
     "name": "Foreverpunk #116",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/116.png",
-    "dna": "be13f3be692938253ee37a6261252e85999971b5",
+    "dna": "cdb3836d4135381cb580294ed60e8d0ae5eae2b3",
     "edition": 116,
-    "date": 1687519148249,
+    "date": 1687620158614,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2646,9 +2730,9 @@
     "name": "Foreverpunk #117",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/117.png",
-    "dna": "47a7dcacbd2f3a5b895b3c7d2f5b2723564b8f2d",
+    "dna": "997f06ffae403c325d177e4e73dc64818520595e",
     "edition": 117,
-    "date": 1687519148297,
+    "date": 1687620158663,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2669,9 +2753,9 @@
     "name": "Foreverpunk #118",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/118.png",
-    "dna": "02ed925d44a104f74f359ed7bcca093a40b38a6d",
+    "dna": "5877cccbe2bd3412dd45efb462d76fe04c526674",
     "edition": 118,
-    "date": 1687519148339,
+    "date": 1687620158710,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2692,9 +2776,9 @@
     "name": "Foreverpunk #119",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/119.png",
-    "dna": "65f1701f4961b83aa45a6893d13bc7def7343c93",
+    "dna": "37f6a9b417ef90b235015f7161000ebee0bb2975",
     "edition": 119,
-    "date": 1687519148371,
+    "date": 1687620158743,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2711,13 +2795,17 @@
     "name": "Foreverpunk #120",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/120.png",
-    "dna": "710038e62778447886246da7abc150511b0a9e3b",
+    "dna": "f9eef7a6736992241f95f260ada982b3f456fa8e",
     "edition": 120,
-    "date": 1687519148410,
+    "date": 1687620158792,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       },
       {
         "trait_type": "Glasses-Female",
@@ -2730,9 +2818,9 @@
     "name": "Foreverpunk #121",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/121.png",
-    "dna": "dc7a2d14ff79ab6f46f766c1064756e4c275e502",
+    "dna": "06b0ad5ee824e249c3135f49e5a417078350abf2",
     "edition": 121,
-    "date": 1687519148451,
+    "date": 1687620158829,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2749,9 +2837,9 @@
     "name": "Foreverpunk #122",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/122.png",
-    "dna": "3961234e767ef41e1994a6bda3b25f88a1d02925",
+    "dna": "2f218c786a0388305288840acff9f0b7bbef2b8c",
     "edition": 122,
-    "date": 1687519148496,
+    "date": 1687620158876,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2772,9 +2860,9 @@
     "name": "Foreverpunk #123",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/123.png",
-    "dna": "e073afc92fb9deb1ba3c28c4f078504cade35a71",
+    "dna": "5f5399a7dfbc3558930a096d32515ed2eaa33136",
     "edition": 123,
-    "date": 1687519148540,
+    "date": 1687620158921,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2795,9 +2883,9 @@
     "name": "Foreverpunk #124",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/124.png",
-    "dna": "9a763d0164a00d0329d7f21c84e08b37f681228c",
+    "dna": "8237df2cd23547f336558a8c44f45f4b2dcb96fd",
     "edition": 124,
-    "date": 1687519148576,
+    "date": 1687620158966,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2806,6 +2894,10 @@
       {
         "trait_type": "Ears-Male",
         "value": "Earring"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       },
       {
         "trait_type": "Beard-Male",
@@ -2818,9 +2910,9 @@
     "name": "Foreverpunk #125",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/125.png",
-    "dna": "a51d0c79a0d4bc74185c87888874a7f70832e5b2",
+    "dna": "61f792b42a1e984eb5d76846f716cac8e4ca4e38",
     "edition": 125,
-    "date": 1687519148619,
+    "date": 1687620159020,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2829,6 +2921,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Purple Lipstick"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       },
       {
         "trait_type": "Glasses-Female",
@@ -2841,9 +2937,9 @@
     "name": "Foreverpunk #126",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/126.png",
-    "dna": "e9a94b73bcd3378a3bdc5c32b12d0630b2f26015",
+    "dna": "2c498897a662b22cf13e14c72e87e00d1c95b5a7",
     "edition": 126,
-    "date": 1687519148669,
+    "date": 1687620159073,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2872,9 +2968,9 @@
     "name": "Foreverpunk #127",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/127.png",
-    "dna": "9017c87e0b6c6055686d7b2584700a0824c418cf",
+    "dna": "76e1c304ba9339467119b022df52689cb14de522",
     "edition": 127,
-    "date": 1687519148707,
+    "date": 1687620159109,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2891,9 +2987,9 @@
     "name": "Foreverpunk #128",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/128.png",
-    "dna": "b6401b0b170235d858f8dc1ced4207b497119276",
+    "dna": "e94fa09f7ce6028d617c34434bb29450c51db537",
     "edition": 128,
-    "date": 1687519148762,
+    "date": 1687620159168,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2922,9 +3018,9 @@
     "name": "Foreverpunk #129",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/129.png",
-    "dna": "e3a441fbccd1d97a9a83eb080b55ca24e742dbbb",
+    "dna": "d159e2affb8722b7b88c27155ec71e803be5a33c",
     "edition": 129,
-    "date": 1687519148820,
+    "date": 1687620159233,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2953,9 +3049,9 @@
     "name": "Foreverpunk #130",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/130.png",
-    "dna": "0a5719e2dde4f6e514b2548032e2dbf88798740b",
+    "dna": "b93ec7c538459d52b698da5e0e3b7e2155591d1e",
     "edition": 130,
-    "date": 1687519148860,
+    "date": 1687620159274,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -2972,9 +3068,9 @@
     "name": "Foreverpunk #131",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/131.png",
-    "dna": "873713f2cd75b4ea771b646f4e00110886549227",
+    "dna": "8babe3d8ed2d8b7b3e5542286149ea8d230d2f06",
     "edition": 131,
-    "date": 1687519148894,
+    "date": 1687620159311,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -2995,9 +3091,9 @@
     "name": "Foreverpunk #132",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/132.png",
-    "dna": "3c03c203b597c4bb313b1a7570af9343f8eeb68b",
+    "dna": "66b5609ce096ba0f3281b911156146c362f0647c",
     "edition": 132,
-    "date": 1687519148933,
+    "date": 1687620159351,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3014,9 +3110,9 @@
     "name": "Foreverpunk #133",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/133.png",
-    "dna": "b152a0463671a01b46a21ad41b81068d10d51061",
+    "dna": "53b514f5ed7b015d7c89ee553c0eaf10d10de06f",
     "edition": 133,
-    "date": 1687519148993,
+    "date": 1687620159409,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3041,9 +3137,9 @@
     "name": "Foreverpunk #134",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/134.png",
-    "dna": "cc7387d449548a1ecdbeaf614b7e8ecfc8f80689",
+    "dna": "a1c5f51e334a798532676090facebfefc8372783",
     "edition": 134,
-    "date": 1687519149034,
+    "date": 1687620159450,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3060,9 +3156,9 @@
     "name": "Foreverpunk #135",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/135.png",
-    "dna": "f017efebeabf1e51cf8dc271cf6aaeda164f4514",
+    "dna": "af977f3475146c3276d34d9c34da616fe33d4e32",
     "edition": 135,
-    "date": 1687519149074,
+    "date": 1687620159493,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3079,9 +3175,9 @@
     "name": "Foreverpunk #136",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/136.png",
-    "dna": "aa07155ef8c1707c5f3aa14eba62b7b0f6b36e8b",
+    "dna": "6936f9f9b91a62fcb075a0ffbc26a65c9e5284f5",
     "edition": 136,
-    "date": 1687519149118,
+    "date": 1687620159543,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3106,9 +3202,9 @@
     "name": "Foreverpunk #137",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/137.png",
-    "dna": "39852de7a839c6a07f3bf26809722a0f13280418",
+    "dna": "e8154d17d2a667b4113095b94451b0a0a4fdc6b5",
     "edition": 137,
-    "date": 1687519149162,
+    "date": 1687620159590,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3125,9 +3221,9 @@
     "name": "Foreverpunk #138",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/138.png",
-    "dna": "b4c47c0c94900db039b1d0c42b99a4cb72e0cf45",
+    "dna": "ee7f3672866395b34e1ece1fc5d8d6459cd01534",
     "edition": 138,
-    "date": 1687519149203,
+    "date": 1687620159631,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3144,13 +3240,17 @@
     "name": "Foreverpunk #139",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/139.png",
-    "dna": "89f8e5ed0af1478cee1344c0312f9076bc5d3ceb",
+    "dna": "455299a2f36697ea7121be005b3cc6d8efef67b4",
     "edition": 139,
-    "date": 1687519149239,
+    "date": 1687620159671,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       },
       {
         "trait_type": "Glasses-Male",
@@ -3163,9 +3263,9 @@
     "name": "Foreverpunk #140",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/140.png",
-    "dna": "4e0ebb6f940a0355310f9e890f5262b29531ee8e",
+    "dna": "8b4c5184a11ca99d5b6b75d6ddfe51d3815a4d55",
     "edition": 140,
-    "date": 1687519149275,
+    "date": 1687620159705,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3182,9 +3282,9 @@
     "name": "Foreverpunk #141",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/141.png",
-    "dna": "ce5829d5dc4c50f5ee701e905c84ae0bf1597dca",
+    "dna": "b2c6d29cdd5560669aaf2ebc45959a12bd3e0ca9",
     "edition": 141,
-    "date": 1687519149323,
+    "date": 1687620159754,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3209,9 +3309,9 @@
     "name": "Foreverpunk #142",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/142.png",
-    "dna": "9549e645e396be4d8e8960d39b399569c29fa35b",
+    "dna": "0f4487a9bca849ce66fafce1204b41ee651c5397",
     "edition": 142,
-    "date": 1687519149365,
+    "date": 1687620159798,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3232,9 +3332,9 @@
     "name": "Foreverpunk #143",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/143.png",
-    "dna": "aa48215061ce94dec1911a7fcab717388d475696",
+    "dna": "bd0382a4ca019a613ee41ac202f6355534168e04",
     "edition": 143,
-    "date": 1687519149412,
+    "date": 1687620159851,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3255,9 +3355,9 @@
     "name": "Foreverpunk #144",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/144.png",
-    "dna": "a9087d994c9a99a42a1ea5741aaf7eca8a0071ba",
+    "dna": "9ee134f222903330f3ccd8ede69d1b4b0fc8a3b1",
     "edition": 144,
-    "date": 1687519149459,
+    "date": 1687620159899,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3278,9 +3378,9 @@
     "name": "Foreverpunk #145",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/145.png",
-    "dna": "87f4c89c4f45696a325ff5e1d09f215a691dc2e2",
+    "dna": "521420633c96cdaeb2cee9b350245ab742475dc5",
     "edition": 145,
-    "date": 1687519149504,
+    "date": 1687620159944,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3297,9 +3397,9 @@
     "name": "Foreverpunk #146",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/146.png",
-    "dna": "e862d924fb04359a77f406bc613e347157b64f1b",
+    "dna": "e4f287b7e06fb08042cf114fddc27f254d78eb75",
     "edition": 146,
-    "date": 1687519149550,
+    "date": 1687620159987,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3320,9 +3420,9 @@
     "name": "Foreverpunk #147",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/147.png",
-    "dna": "5c30af569edd50edec970d10f2d3b15fe5e7f09b",
+    "dna": "8772b9cd8dfa20cc9d922d4336bd5de2e55658c9",
     "edition": 147,
-    "date": 1687519149588,
+    "date": 1687620160028,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3343,9 +3443,9 @@
     "name": "Foreverpunk #148",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/148.png",
-    "dna": "b2c32e53f326931a2b0411644e0ef54adfb1497d",
+    "dna": "2d76d6e077d4b5278fcffb0e0a0b27416caa9499",
     "edition": 148,
-    "date": 1687519149626,
+    "date": 1687620160067,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3362,9 +3462,9 @@
     "name": "Foreverpunk #149",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/149.png",
-    "dna": "a5ef89c8d3c6eb049e8cd926ee019e85e1284058",
+    "dna": "89fa9aa7cbcdeb9f4f2b8af22b8e4d6da84ee2a7",
     "edition": 149,
-    "date": 1687519149680,
+    "date": 1687620160122,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3389,9 +3489,9 @@
     "name": "Foreverpunk #150",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/150.png",
-    "dna": "2f977b6801482951ec318caff0420318f4495902",
+    "dna": "de2c0c2a6d06643adc8da5f488662d5362d2f7f5",
     "edition": 150,
-    "date": 1687519149716,
+    "date": 1687620160162,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3412,9 +3512,9 @@
     "name": "Foreverpunk #151",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/151.png",
-    "dna": "353d6b03ec3c45fb3e215ace481d7002b3bb7154",
+    "dna": "38a5d2da0eef104d2b49e49d0ccb9d9920e746b4",
     "edition": 151,
-    "date": 1687519149752,
+    "date": 1687620160199,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3431,9 +3531,9 @@
     "name": "Foreverpunk #152",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/152.png",
-    "dna": "502b30054bd31099b67ee9fe060597e3dde92869",
+    "dna": "5598e7f1df1d9fa81125a12c5addad7526869b7d",
     "edition": 152,
-    "date": 1687519149793,
+    "date": 1687620160241,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3454,9 +3554,9 @@
     "name": "Foreverpunk #153",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/153.png",
-    "dna": "fd120b0dfb84a49fa5f871a86bc197a59e85937f",
+    "dna": "6e03c33ba9a6f762d9b5d3ab12552ece683309e6",
     "edition": 153,
-    "date": 1687519149833,
+    "date": 1687620160278,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3477,9 +3577,9 @@
     "name": "Foreverpunk #154",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/154.png",
-    "dna": "64ce1731921221ce37dc880b58d82278e3bafabf",
+    "dna": "dafe7e5dd06e8f5b8189c20c4d880ce5b15fbc08",
     "edition": 154,
-    "date": 1687519149879,
+    "date": 1687620160326,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3504,9 +3604,9 @@
     "name": "Foreverpunk #155",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/155.png",
-    "dna": "26363ed0a3ad861799a03bf27781531372887806",
+    "dna": "981313fde71ec01e0a162cfdf9cf6e0159926303",
     "edition": 155,
-    "date": 1687519149924,
+    "date": 1687620160371,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3527,9 +3627,9 @@
     "name": "Foreverpunk #156",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/156.png",
-    "dna": "1957bd5097efc1566489c149d673d11413da7b01",
+    "dna": "1da6397d9a837f05634e82a7dac4aedbaed69710",
     "edition": 156,
-    "date": 1687519149970,
+    "date": 1687620160422,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3550,9 +3650,9 @@
     "name": "Foreverpunk #157",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/157.png",
-    "dna": "52fcfb748f550fe89c2ba24cbc4e2f0465d88997",
+    "dna": "0a9be2bce054464b1ea359bfbc9804923ad0db29",
     "edition": 157,
-    "date": 1687519150006,
+    "date": 1687620160460,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3569,9 +3669,9 @@
     "name": "Foreverpunk #158",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/158.png",
-    "dna": "048a009e652bf168bb661d5825fdc3d689bb675b",
+    "dna": "29912234d629f26f4fb7f5251ab35571507d7ecf",
     "edition": 158,
-    "date": 1687519150062,
+    "date": 1687620160512,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3596,9 +3696,9 @@
     "name": "Foreverpunk #159",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/159.png",
-    "dna": "e759d0eb4dec226d6492fcc64dc624f8cc21cc34",
+    "dna": "c6d83bb7091b52eddff4d534624d62551804ff61",
     "edition": 159,
-    "date": 1687519150098,
+    "date": 1687620160550,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3615,9 +3715,9 @@
     "name": "Foreverpunk #160",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/160.png",
-    "dna": "e6bb57fd63f1c91cbda5ce677a9922494de6d377",
+    "dna": "6c726dda17d05e7640fe25f5928be67d24436faa",
     "edition": 160,
-    "date": 1687519150135,
+    "date": 1687620160588,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3638,9 +3738,9 @@
     "name": "Foreverpunk #161",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/161.png",
-    "dna": "7bc8a4146dce32eafc5cba2cd41441f596406849",
+    "dna": "73048a8777c0c22d8e7c194c6295cf9de0aa66f0",
     "edition": 161,
-    "date": 1687519150169,
+    "date": 1687620160622,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3657,9 +3757,9 @@
     "name": "Foreverpunk #162",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/162.png",
-    "dna": "f350ed98f5e13b7c860560268e864efbcd04c0c8",
+    "dna": "844b125048858079f0fd5588f05860f61b3a54cc",
     "edition": 162,
-    "date": 1687519150209,
+    "date": 1687620160667,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3680,9 +3780,9 @@
     "name": "Foreverpunk #163",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/163.png",
-    "dna": "ff6ca8dc189e286bc33b7deb87022e7f3d94355d",
+    "dna": "1cd050fd1fcf51f34291be6de5d6188d0da342ed",
     "edition": 163,
-    "date": 1687519150251,
+    "date": 1687620160713,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3703,9 +3803,9 @@
     "name": "Foreverpunk #164",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/164.png",
-    "dna": "26baf49341315a460b9c9dab6e500b32597aa1eb",
+    "dna": "06b775e59a9a3326ef52d04e8a9aae9773d8bf88",
     "edition": 164,
-    "date": 1687519150288,
+    "date": 1687620160752,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3722,9 +3822,9 @@
     "name": "Foreverpunk #165",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/165.png",
-    "dna": "27b755d69defc118d3a8517308923a5563127619",
+    "dna": "514cb7aed2365fa303d82504757000e591838006",
     "edition": 165,
-    "date": 1687519150335,
+    "date": 1687620160796,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3749,9 +3849,9 @@
     "name": "Foreverpunk #166",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/166.png",
-    "dna": "404c67afb8c48df9c0fbe432e62e9b3f821a2e2d",
+    "dna": "b0af4a938b927beae25510e409132910917cff9a",
     "edition": 166,
-    "date": 1687519150381,
+    "date": 1687620160840,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3772,9 +3872,9 @@
     "name": "Foreverpunk #167",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/167.png",
-    "dna": "fa9563e6f2f0cc5968be1b6a138188837f8d42e2",
+    "dna": "a6879d3587869e96f38d45889a155cf882f008c2",
     "edition": 167,
-    "date": 1687519150415,
+    "date": 1687620160883,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3783,6 +3883,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Hot Lipstick"
+      },
+      {
+        "trait_type": "Hat-Female",
+        "value": "Headband"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -3791,9 +3895,9 @@
     "name": "Foreverpunk #168",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/168.png",
-    "dna": "32e4d022a2ca47c1f359689808c105659cb1100b",
+    "dna": "0dab63ded477a29d97ba3cc4e0c7c3901b42d4eb",
     "edition": 168,
-    "date": 1687519150460,
+    "date": 1687620160931,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3818,9 +3922,9 @@
     "name": "Foreverpunk #169",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/169.png",
-    "dna": "dac34559d4e6c8c34658425bc9f9a9f2019b357a",
+    "dna": "94e3d357251ec82fcdb1a8336c409508582aab9b",
     "edition": 169,
-    "date": 1687519150506,
+    "date": 1687620160982,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3845,9 +3949,9 @@
     "name": "Foreverpunk #170",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/170.png",
-    "dna": "7769874c5654a1b45d4e3ec0718d7275fb5ab31d",
+    "dna": "85e2342e303d8b73aee68c9dfe479824ececc70b",
     "edition": 170,
-    "date": 1687519150548,
+    "date": 1687620161030,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3856,6 +3960,10 @@
       {
         "trait_type": "Blemish-Male",
         "value": "Mole"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       },
       {
         "trait_type": "Glasses-Male",
@@ -3868,9 +3976,9 @@
     "name": "Foreverpunk #171",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/171.png",
-    "dna": "ff32af1cd00069c09ada0f3119b26a4746d4ff89",
+    "dna": "59a384313c8c4439d8172e760ebcab8734f9f6c9",
     "edition": 171,
-    "date": 1687519150589,
+    "date": 1687620161066,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3891,9 +3999,9 @@
     "name": "Foreverpunk #172",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/172.png",
-    "dna": "6442aa74a2901f2087d157e508875706633fbe4f",
+    "dna": "993b59216f0cd6f534ddbf5decd2ff4eeb9ed219",
     "edition": 172,
-    "date": 1687519150634,
+    "date": 1687620161112,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3918,9 +4026,9 @@
     "name": "Foreverpunk #173",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/173.png",
-    "dna": "4605bab4259311ad0deb217d42f10bfc7fdab8fc",
+    "dna": "d0131084856aa1fa5b263a6075a44efab4f7fc36",
     "edition": 173,
-    "date": 1687519150694,
+    "date": 1687620161174,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -3953,9 +4061,9 @@
     "name": "Foreverpunk #174",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/174.png",
-    "dna": "81a1f9022067401bf6eb35fc8c085f84c53131ad",
+    "dna": "62086f1bfe968e40e9b4fa5fda5a0b6b36d5fad4",
     "edition": 174,
-    "date": 1687519150747,
+    "date": 1687620161232,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3980,9 +4088,9 @@
     "name": "Foreverpunk #175",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/175.png",
-    "dna": "e671525cb69883a8dc1c275ee810836974d58ce7",
+    "dna": "9032c49edb13fc27754ba670f461c247416e3d8e",
     "edition": 175,
-    "date": 1687519150785,
+    "date": 1687620161270,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -3999,9 +4107,9 @@
     "name": "Foreverpunk #176",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/176.png",
-    "dna": "8c918abd9ec91402fcf109a98b787b0e1c59ae6e",
+    "dna": "8599c313f4285f5aeeeaea48decd366af8b3ef08",
     "edition": 176,
-    "date": 1687519150830,
+    "date": 1687620161311,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4026,9 +4134,9 @@
     "name": "Foreverpunk #177",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/177.png",
-    "dna": "4e6b9a91d1a2373edd1eafbc5ab7c5c6dc00d62e",
+    "dna": "9fc78a29047f3255b8d355419a3808b9f6495de7",
     "edition": 177,
-    "date": 1687519150875,
+    "date": 1687620161359,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4049,9 +4157,9 @@
     "name": "Foreverpunk #178",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/178.png",
-    "dna": "03ab03e900d5d0b45b70b368596470f8717aac09",
+    "dna": "52b379002aad0e4784131dfc5c3728631c19e86b",
     "edition": 178,
-    "date": 1687519150910,
+    "date": 1687620161394,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4068,9 +4176,9 @@
     "name": "Foreverpunk #179",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/179.png",
-    "dna": "e5fb657d1f6fca3847be8f2e80283b9d9cc961e4",
+    "dna": "e3cb6cf2eecfc8c9af0425ad647dbda5b7a40f75",
     "edition": 179,
-    "date": 1687519150954,
+    "date": 1687620161444,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4095,9 +4203,9 @@
     "name": "Foreverpunk #180",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/180.png",
-    "dna": "45c0b304697d79b5428c2e870556bd4e69608529",
+    "dna": "730c7cb9834708519571e4b1e9635a14b57c8978",
     "edition": 180,
-    "date": 1687519150988,
+    "date": 1687620161479,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4114,9 +4222,9 @@
     "name": "Foreverpunk #181",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/181.png",
-    "dna": "59930e2695e789025dd7ee1ed4165601e6efa001",
+    "dna": "878efe50838b30562799e0ac616a6957823d84ab",
     "edition": 181,
-    "date": 1687519151027,
+    "date": 1687620161518,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4133,13 +4241,17 @@
     "name": "Foreverpunk #182",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/182.png",
-    "dna": "e877c7612f2a04da1ffdeb9aa61e5ef774e35791",
+    "dna": "d2c9d77e510bbfcfa3d738b3423e53ca2770063c",
     "edition": 182,
-    "date": 1687519151058,
+    "date": 1687620161556,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Albino"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -4148,9 +4260,9 @@
     "name": "Foreverpunk #183",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/183.png",
-    "dna": "d9e5a414e16f37003d21ecb2af57d81a88a84352",
+    "dna": "020fca2cd908c89d48fa53245947871e3b3efa70",
     "edition": 183,
-    "date": 1687519151097,
+    "date": 1687620161594,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4167,9 +4279,9 @@
     "name": "Foreverpunk #184",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/184.png",
-    "dna": "565d89174fc9adae65c9684e3e819011eb7846a9",
+    "dna": "268fef2125bd8f7a53f3c9fb0edcc7c881f554af",
     "edition": 184,
-    "date": 1687519151140,
+    "date": 1687620161635,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4190,9 +4302,9 @@
     "name": "Foreverpunk #185",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/185.png",
-    "dna": "f89bbe2b54b84deda79d75717b8d3975d2e6d9e4",
+    "dna": "2068a67aeda1d97cc64fbddf4d9eb6f69c21febf",
     "edition": 185,
-    "date": 1687519151183,
+    "date": 1687620161680,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4213,9 +4325,9 @@
     "name": "Foreverpunk #186",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/186.png",
-    "dna": "e704424810b8a8a2f2406b4f14faf97aeea57e31",
+    "dna": "9d4de272ffb38c31474b1eae2cd43dc24b2990ee",
     "edition": 186,
-    "date": 1687519151231,
+    "date": 1687620161727,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4236,9 +4348,9 @@
     "name": "Foreverpunk #187",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/187.png",
-    "dna": "70da517ee6a009f9706404f3bdd0f3a8f0fd49ad",
+    "dna": "a326ad810f585c4be3547126b24714526c128a97",
     "edition": 187,
-    "date": 1687519151266,
+    "date": 1687620161768,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4255,9 +4367,9 @@
     "name": "Foreverpunk #188",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/188.png",
-    "dna": "2e751cf7746f0e655ec4d26356e3997cdf723855",
+    "dna": "811a103c9a229b3ab2a89c1e059e499d4ad899be",
     "edition": 188,
-    "date": 1687519151307,
+    "date": 1687620161814,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4266,6 +4378,10 @@
       {
         "trait_type": "Ears-Male",
         "value": "Earring"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       },
       {
         "trait_type": "Glasses-Male",
@@ -4278,9 +4394,9 @@
     "name": "Foreverpunk #189",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/189.png",
-    "dna": "6395879dd2b8a42011750b700faf82feacc7c7ad",
+    "dna": "9862d3a4ac65683d9bdfc7051665fb9cc7c07989",
     "edition": 189,
-    "date": 1687519151347,
+    "date": 1687620161858,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4301,9 +4417,9 @@
     "name": "Foreverpunk #190",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/190.png",
-    "dna": "0c7b7d622e52ce4f2e78f00e80efcd7bf818f1cf",
+    "dna": "16e1cbb08649031d6adb0bbc6b50b8b17b83f3a5",
     "edition": 190,
-    "date": 1687519151385,
+    "date": 1687620161897,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4320,9 +4436,9 @@
     "name": "Foreverpunk #191",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/191.png",
-    "dna": "0052a1317a1d941c796666642a087361449a082c",
+    "dna": "00b8691cd56a6ab112e00775da62784af9d06e4b",
     "edition": 191,
-    "date": 1687519151425,
+    "date": 1687620161933,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4339,9 +4455,9 @@
     "name": "Foreverpunk #192",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/192.png",
-    "dna": "15a48fba564134886419bc4f4b8dea9caaacec17",
+    "dna": "54f3dca0c3cf951b809d265151d77d2b7cfdf2d6",
     "edition": 192,
-    "date": 1687519151469,
+    "date": 1687620161979,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4370,9 +4486,9 @@
     "name": "Foreverpunk #193",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/193.png",
-    "dna": "6200ddcaa96c2b94b2698e42941a8eedcbd60993",
+    "dna": "f9b2d24aa4f8c6c53321c537c30008de45649338",
     "edition": 193,
-    "date": 1687519151508,
+    "date": 1687620162031,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4385,6 +4501,10 @@
       {
         "trait_type": "Eyes-Female",
         "value": "Green Eye Shadow"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -4393,9 +4513,9 @@
     "name": "Foreverpunk #194",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/194.png",
-    "dna": "895b2e7ddf1079f934096afbe16aa0b44a51365a",
+    "dna": "5e0bc4e487566d3d82dd00042eca674b4d8eb205",
     "edition": 194,
-    "date": 1687519151557,
+    "date": 1687620162081,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4416,9 +4536,9 @@
     "name": "Foreverpunk #195",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/195.png",
-    "dna": "b722bd7d6907cba78978c245adf70746dd42817c",
+    "dna": "0562746f6b3495e5573a3c3fc3eba2a220a273c5",
     "edition": 195,
-    "date": 1687519151599,
+    "date": 1687620162124,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4439,9 +4559,9 @@
     "name": "Foreverpunk #196",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/196.png",
-    "dna": "1462ccf91b1d20c4e72378f2ed75a6988812e695",
+    "dna": "7d2c2e57900715db8582482ff0bcbc7a86e3d873",
     "edition": 196,
-    "date": 1687519151641,
+    "date": 1687620162177,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4450,6 +4570,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Hot Lipstick"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       },
       {
         "trait_type": "Glasses-Female",
@@ -4462,9 +4586,9 @@
     "name": "Foreverpunk #197",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/197.png",
-    "dna": "6ff54cd240f6e029098e8a0a7064b67454eaede2",
+    "dna": "b14b4ef43ccd1b87ea5c0178b4c3cf4916690195",
     "edition": 197,
-    "date": 1687519151682,
+    "date": 1687620162215,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4481,9 +4605,9 @@
     "name": "Foreverpunk #198",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/198.png",
-    "dna": "0d39164e6559bf89b175bb1ff2cb617992d21748",
+    "dna": "84304cb3bdafa2d9fb96c669866a3070c3176329",
     "edition": 198,
-    "date": 1687519151727,
+    "date": 1687620162260,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4504,13 +4628,21 @@
     "name": "Foreverpunk #199",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/199.png",
-    "dna": "7546d2a08d076133de11f95202d3f730285a2710",
+    "dna": "c3e4627540947d82eb51502a4428ce2c49e46a31",
     "edition": 199,
-    "date": 1687519151759,
+    "date": 1687620162310,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Blonde Short"
+      },
+      {
+        "trait_type": "Glasses-Female",
+        "value": "Classic Shades"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -4519,9 +4651,9 @@
     "name": "Foreverpunk #200",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/200.png",
-    "dna": "62785da9c0558433220905066f7c5e9fdb334e08",
+    "dna": "ecfbd5932f2ba39bc3e09ce77669c94d0de55e6f",
     "edition": 200,
-    "date": 1687519151789,
+    "date": 1687620162340,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4534,9 +4666,9 @@
     "name": "Foreverpunk #201",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/201.png",
-    "dna": "03392953292f0a0536612312661269bcff2324b8",
+    "dna": "0f4ed95fa1d9f9e96fd67ffda00738df48ac144a",
     "edition": 201,
-    "date": 1687519151834,
+    "date": 1687620162393,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4551,6 +4683,10 @@
         "value": "Blue Eye Shadow"
       },
       {
+        "trait_type": "Hair-Female",
+        "value": "Dark Hair"
+      },
+      {
         "trait_type": "Mouth Prop-Female",
         "value": "Cigarette"
       }
@@ -4561,9 +4697,9 @@
     "name": "Foreverpunk #202",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/202.png",
-    "dna": "9a681791e96840b74afe065123ce92f5c29c713f",
+    "dna": "09156cdf7d96415211a10ae5da5ec4f5533bcab5",
     "edition": 202,
-    "date": 1687519151872,
+    "date": 1687620162439,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4576,6 +4712,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Purple Lipstick"
+      },
+      {
+        "trait_type": "Hat-Female",
+        "value": "Headband"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -4584,9 +4724,9 @@
     "name": "Foreverpunk #203",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/203.png",
-    "dna": "2c167275fcbedff226cf55cfdf9a418d3cbbe853",
+    "dna": "bb47f3a20c7a4a219c09a4b60d82e764aec17b1f",
     "edition": 203,
-    "date": 1687519151924,
+    "date": 1687620162491,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4611,9 +4751,9 @@
     "name": "Foreverpunk #204",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/204.png",
-    "dna": "4a9dffd0a4f8cf6268acc68fd87f53e17a35819f",
+    "dna": "e86ae62ccaca29698c2886a705c9de5e3b1d21fd",
     "edition": 204,
-    "date": 1687519151972,
+    "date": 1687620162538,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4634,9 +4774,9 @@
     "name": "Foreverpunk #205",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/205.png",
-    "dna": "8189bfbc457df11f5dce333259d0d61f8e28c441",
+    "dna": "ccb493a97a991bbdef627eb66d2b112c11c102bb",
     "edition": 205,
-    "date": 1687519152015,
+    "date": 1687620162587,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4661,9 +4801,9 @@
     "name": "Foreverpunk #206",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/206.png",
-    "dna": "39f8abe3672df0cd0e3e8eb31268e2976766cc37",
+    "dna": "1dd66166b4a662316d7841f7d31b5178913f9e80",
     "edition": 206,
-    "date": 1687519152067,
+    "date": 1687620162639,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4688,13 +4828,17 @@
     "name": "Foreverpunk #207",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/207.png",
-    "dna": "0e4d9e28892f651e51ece1708fe1162c53773ba2",
+    "dna": "c1c98e9c262af4d832c1dfc36fa57b6e309646a1",
     "edition": 207,
-    "date": 1687519152114,
+    "date": 1687620162692,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       },
       {
         "trait_type": "Glasses-Male",
@@ -4711,9 +4855,9 @@
     "name": "Foreverpunk #208",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/208.png",
-    "dna": "666ec2f6cc9989cde04ae434f1555fb9ca13a90f",
+    "dna": "7c330287f3d1c2e05e6864f19640a89acf7ecf78",
     "edition": 208,
-    "date": 1687519152157,
+    "date": 1687620162736,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4738,9 +4882,9 @@
     "name": "Foreverpunk #209",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/209.png",
-    "dna": "4b34a6312850adb258532c378d5dac27a1dfef35",
+    "dna": "163bffbc17f9018fdd1ddbc6dd6e4f7c7224e44e",
     "edition": 209,
-    "date": 1687519152190,
+    "date": 1687620162769,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4757,9 +4901,9 @@
     "name": "Foreverpunk #210",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/210.png",
-    "dna": "00580bbf185babe0c125ef39a944310f66dfc892",
+    "dna": "53f600bde97e6ce0e789c82e4fed6aa34a3e8ad6",
     "edition": 210,
-    "date": 1687519152229,
+    "date": 1687620162808,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4780,9 +4924,9 @@
     "name": "Foreverpunk #211",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/211.png",
-    "dna": "c1add44a1af39d6f2ef23ac73e5161f040df60f5",
+    "dna": "8c86015436c3392efe46da752217d1e62f66c8f0",
     "edition": 211,
-    "date": 1687519152270,
+    "date": 1687620162851,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4803,9 +4947,9 @@
     "name": "Foreverpunk #212",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/212.png",
-    "dna": "cbc67007a0e540d45013db751efc5312bccb0b1d",
+    "dna": "d895608e572f9baafdff8ac6f7f6e4cc5fb5cb60",
     "edition": 212,
-    "date": 1687519152302,
+    "date": 1687620162885,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4822,9 +4966,9 @@
     "name": "Foreverpunk #213",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/213.png",
-    "dna": "ebbddb6d04ccdc3438139437ef669559d5238709",
+    "dna": "b9bdae0e240bc2af065e1893d547842760c5962c",
     "edition": 213,
-    "date": 1687519152334,
+    "date": 1687620162918,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4837,9 +4981,9 @@
     "name": "Foreverpunk #214",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/214.png",
-    "dna": "6832ff45a58d46e020b595e9ab0f603933305d7f",
+    "dna": "d438010aeb89ff949eba04e0a28774e24f29b421",
     "edition": 214,
-    "date": 1687519152375,
+    "date": 1687620162961,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4860,9 +5004,9 @@
     "name": "Foreverpunk #215",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/215.png",
-    "dna": "a39e487987671b82e67c7cfa3664f4a974e7f85c",
+    "dna": "1c3ee49c782ee73567c8c0a6753cc4d26a128434",
     "edition": 215,
-    "date": 1687519152412,
+    "date": 1687620162999,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4879,9 +5023,9 @@
     "name": "Foreverpunk #216",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/216.png",
-    "dna": "c6732bc4aa470ffa81f6c53e49c3027da5b80e4e",
+    "dna": "38153b36d0352ad8fc6fc2e53dc8c0300d16bf05",
     "edition": 216,
-    "date": 1687519152449,
+    "date": 1687620163037,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4898,9 +5042,9 @@
     "name": "Foreverpunk #217",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/217.png",
-    "dna": "ea25de47f02b0ac4c543e0fa4c275811d7ed6da7",
+    "dna": "31c5cd1861d4f2de3b165554a3265ac186e62054",
     "edition": 217,
-    "date": 1687519152494,
+    "date": 1687620163079,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4925,9 +5069,9 @@
     "name": "Foreverpunk #218",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/218.png",
-    "dna": "fbe492378455785c4c3fb0fe15f97ccf2a46f7ba",
+    "dna": "ed2ee6b9cf567a2a813925d61c18046d589b2d29",
     "edition": 218,
-    "date": 1687519152536,
+    "date": 1687620163129,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -4952,9 +5096,9 @@
     "name": "Foreverpunk #219",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/219.png",
-    "dna": "d2b66b721c4cb0e90c1efb6a9aade1755f9baf4f",
+    "dna": "4c8f7ed100fc0a43bac2115c3965f88cbfefb850",
     "edition": 219,
-    "date": 1687519152584,
+    "date": 1687620163176,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -4983,9 +5127,9 @@
     "name": "Foreverpunk #220",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/220.png",
-    "dna": "01f7ac4d2b3ea24400aa67d1311900c4f1503a78",
+    "dna": "062bc388049be55767f7c9fe9304b1b69e9b3462",
     "edition": 220,
-    "date": 1687519152625,
+    "date": 1687620163219,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5006,13 +5150,17 @@
     "name": "Foreverpunk #221",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/221.png",
-    "dna": "7f5d76c4693a887744a64c1d5a2f0e1514397cf1",
+    "dna": "8f482ae78262c575a76e24522e8ebba33d189144",
     "edition": 221,
-    "date": 1687519152672,
+    "date": 1687620163270,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Dark"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       },
       {
         "trait_type": "Glasses-Male",
@@ -5029,13 +5177,17 @@
     "name": "Foreverpunk #222",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/222.png",
-    "dna": "6c503dffa53df43675673b4a7146d48dc3946363",
+    "dna": "3de4b016f819dc7a40abc09e10d25efb939114ea",
     "edition": 222,
-    "date": 1687519152722,
+    "date": 1687620163327,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       },
       {
         "trait_type": "Glasses-Male",
@@ -5052,9 +5204,9 @@
     "name": "Foreverpunk #223",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/223.png",
-    "dna": "012253e567dcf550867942137a47b183968db634",
+    "dna": "d7db6da9c7314d3c2e95120f8f8ea12014a8b3f4",
     "edition": 223,
-    "date": 1687519152774,
+    "date": 1687620163381,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5079,9 +5231,9 @@
     "name": "Foreverpunk #224",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/224.png",
-    "dna": "1aa047ca6cd0013623909b998a5d74905ddd531e",
+    "dna": "089d89da09553b2f83f97686de07281271322094",
     "edition": 224,
-    "date": 1687519152825,
+    "date": 1687620163435,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5110,9 +5262,9 @@
     "name": "Foreverpunk #225",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/225.png",
-    "dna": "5dd23bb0e4a4e9b7395f0726a8ce58ab035e3f80",
+    "dna": "3ad2b0aeef81c0a450a973ef196027dd2923598d",
     "edition": 225,
-    "date": 1687519152875,
+    "date": 1687620163483,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5137,9 +5289,9 @@
     "name": "Foreverpunk #226",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/226.png",
-    "dna": "a72ce25d8c6a17f6f06ca29835f2b28d80b1cf61",
+    "dna": "21829c16abc787e917f707b7c6bbd2fe58f6be35",
     "edition": 226,
-    "date": 1687519152910,
+    "date": 1687620163518,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5156,9 +5308,9 @@
     "name": "Foreverpunk #227",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/227.png",
-    "dna": "1c895509aaa45d15df9e5f6ea7d221d8781e4906",
+    "dna": "7601336c15cf2ebe430165e695e93b86f7c091f8",
     "edition": 227,
-    "date": 1687519152950,
+    "date": 1687620163560,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5175,13 +5327,17 @@
     "name": "Foreverpunk #228",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/228.png",
-    "dna": "78df246ee780ac762662f1a66d885fa0f84ec7eb",
+    "dna": "0234810f3d269c5dd026bbd826c3d044c231a2ae",
     "edition": 228,
-    "date": 1687519152987,
+    "date": 1687620163603,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Mid"
+      },
+      {
+        "trait_type": "Hair-Male",
+        "value": "Peak Spike"
       },
       {
         "trait_type": "Glasses-Male",
@@ -5194,9 +5350,9 @@
     "name": "Foreverpunk #229",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/229.png",
-    "dna": "af7b601cab5828fd92460c7df59585fcde100662",
+    "dna": "f669b1656eb3d97b83d331d34537c3d5fbc163e0",
     "edition": 229,
-    "date": 1687519153039,
+    "date": 1687620163656,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5217,9 +5373,9 @@
     "name": "Foreverpunk #230",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/230.png",
-    "dna": "9b8549d67e737ff99118020681b5b45d5164e396",
+    "dna": "d99b7a34fea2166d6abb655fe8c72aa0b2140d9e",
     "edition": 230,
-    "date": 1687519153086,
+    "date": 1687620163703,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5240,9 +5396,9 @@
     "name": "Foreverpunk #231",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/231.png",
-    "dna": "b22c9f8009ffc6fb1a2c8d9904948571bf6890c7",
+    "dna": "ad796e13c85aab009abbcee1aa00249e58d884d5",
     "edition": 231,
-    "date": 1687519153129,
+    "date": 1687620163749,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5263,9 +5419,9 @@
     "name": "Foreverpunk #232",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/232.png",
-    "dna": "2e7810fbd60f2c23eb480fb3183f98f8f72b2f98",
+    "dna": "64ea9faa9940b39e78f844bf0ca9917072e754b5",
     "edition": 232,
-    "date": 1687519153163,
+    "date": 1687620163783,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5282,9 +5438,9 @@
     "name": "Foreverpunk #233",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/233.png",
-    "dna": "ef21bd114afac8875d00d47c0fc066074ca73f07",
+    "dna": "9f85c3af0c3e4abcb730088550bc300ed8a4d5fb",
     "edition": 233,
-    "date": 1687519153206,
+    "date": 1687620163828,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5305,9 +5461,9 @@
     "name": "Foreverpunk #234",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/234.png",
-    "dna": "9f11017beeece488ffc19bb95014feffc515f75b",
+    "dna": "8c084753db840722fba049dfb15617e726ce9962",
     "edition": 234,
-    "date": 1687519153251,
+    "date": 1687620163878,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5328,9 +5484,9 @@
     "name": "Foreverpunk #235",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/235.png",
-    "dna": "c8289103a1a5c52644a99ff2379a98d9dc4f09ec",
+    "dna": "d67b70183fcff3ff3d232d4df8edaad0f63ebda3",
     "edition": 235,
-    "date": 1687519153296,
+    "date": 1687620163920,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5347,9 +5503,9 @@
     "name": "Foreverpunk #236",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/236.png",
-    "dna": "52beaa6c150f37eaef9b1ab9a5367b08a41f1a86",
+    "dna": "3b16aa64508bd3c26d7c9dc4dc3a55521622f992",
     "edition": 236,
-    "date": 1687519153334,
+    "date": 1687620163963,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5358,6 +5514,10 @@
       {
         "trait_type": "Hair-Male",
         "value": "Vampire Hair"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -5366,9 +5526,9 @@
     "name": "Foreverpunk #237",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/237.png",
-    "dna": "4a6d6c6aa6a196cdb8dd1e6b8678b89fc894194f",
+    "dna": "91bf5ca9a47c8163e1fcad33c9e24f9fe3b5357c",
     "edition": 237,
-    "date": 1687519153377,
+    "date": 1687620164006,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5389,9 +5549,9 @@
     "name": "Foreverpunk #238",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/238.png",
-    "dna": "8955c799214b31561dc602ad2b14ed1ec7b15b2a",
+    "dna": "363cb0f0941cd5d4a3c155f653130b3c4b7f2163",
     "edition": 238,
-    "date": 1687519153412,
+    "date": 1687620164043,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5412,9 +5572,9 @@
     "name": "Foreverpunk #239",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/239.png",
-    "dna": "cdfbab7909ef1399d1c88c268ee9118ee565473c",
+    "dna": "01a69965a3d3274e5066326fc481cb37fab9b51f",
     "edition": 239,
-    "date": 1687519153456,
+    "date": 1687620164089,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5439,9 +5599,9 @@
     "name": "Foreverpunk #240",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/240.png",
-    "dna": "9e5d608562268df2555125eb22403c9845b68cdc",
+    "dna": "fba714453a1d27d9d1ae4bd836a776cf2b3e7d51",
     "edition": 240,
-    "date": 1687519153499,
+    "date": 1687620164136,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5462,9 +5622,9 @@
     "name": "Foreverpunk #241",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/241.png",
-    "dna": "24df11fc90a00f6f0b0a5f05284047865054376e",
+    "dna": "aeab64daecd18306ccaebdf6feb12f208d361770",
     "edition": 241,
-    "date": 1687519153551,
+    "date": 1687620164191,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5481,9 +5641,9 @@
     "name": "Foreverpunk #242",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/242.png",
-    "dna": "c4da3b3f9827c8cc4f24a96c90b84f26f0f3a87d",
+    "dna": "ea2dda69ea7e3bc63675694ac2f7fbc423627338",
     "edition": 242,
-    "date": 1687519153589,
+    "date": 1687620164225,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5500,9 +5660,9 @@
     "name": "Foreverpunk #243",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/243.png",
-    "dna": "5fff1c484f3ddea5e49a3e90fc0419233bb6cc6f",
+    "dna": "b7af2d54bd448c814998d4e6ea315687f6cf8237",
     "edition": 243,
-    "date": 1687519153644,
+    "date": 1687620164284,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5531,9 +5691,9 @@
     "name": "Foreverpunk #244",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/244.png",
-    "dna": "1e36af1678b7f18956c6dea3f3773d9a09e47b2a",
+    "dna": "d2eab8bc952d0371aa6307c999f33fe869fe9941",
     "edition": 244,
-    "date": 1687519153683,
+    "date": 1687620164324,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5554,13 +5714,17 @@
     "name": "Foreverpunk #245",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/245.png",
-    "dna": "847c1f6f234fe072d53832338b621816e79d2644",
+    "dna": "48b711bcb5f3307044bbd533c4753f3d019b465f",
     "edition": 245,
-    "date": 1687519153714,
+    "date": 1687620164363,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Dark"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Dark Hair"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -5569,9 +5733,9 @@
     "name": "Foreverpunk #246",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/246.png",
-    "dna": "0d67c6173489835c05eb57c705fba63b96a7c7b6",
+    "dna": "1b965f12a3df7ad8846820fc8728e1dabb56e0cf",
     "edition": 246,
-    "date": 1687519153759,
+    "date": 1687620164414,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5596,9 +5760,9 @@
     "name": "Foreverpunk #247",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/247.png",
-    "dna": "ed451c38f70072314b3b706f57e0dbb9dbdadc7c",
+    "dna": "b48daa888630a8d18293dbcb5eaa2084617f2bbe",
     "edition": 247,
-    "date": 1687519153795,
+    "date": 1687620164451,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5619,9 +5783,9 @@
     "name": "Foreverpunk #248",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/248.png",
-    "dna": "2690c210b53ab5d0a7bf683dda39f946f1f20f51",
+    "dna": "c52b3456dc0451d6cadd9f20c850040ef2e09b20",
     "edition": 248,
-    "date": 1687519153842,
+    "date": 1687620164496,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5642,9 +5806,9 @@
     "name": "Foreverpunk #249",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/249.png",
-    "dna": "a161f96417ec7dd69075586ada7f9790d7d7ba65",
+    "dna": "caeea63d061c36e490ad6841c82cb67953b47d3b",
     "edition": 249,
-    "date": 1687519153885,
+    "date": 1687620164539,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5661,9 +5825,9 @@
     "name": "Foreverpunk #250",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/250.png",
-    "dna": "166ded0f8b09f7f89971846f8816f2656e3ec0b4",
+    "dna": "b310ca965a0874405d5842651ac52c5fdf457272",
     "edition": 250,
-    "date": 1687519153923,
+    "date": 1687620164578,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5684,9 +5848,9 @@
     "name": "Foreverpunk #251",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/251.png",
-    "dna": "f7d6231d031c976907ab509402e34d4df0187acb",
+    "dna": "366954d2109ad72cf4d359953c5ef30b22e93667",
     "edition": 251,
-    "date": 1687519153962,
+    "date": 1687620164619,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5707,9 +5871,9 @@
     "name": "Foreverpunk #252",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/252.png",
-    "dna": "664be1ee15838f253fd2c12be1b111a976327a75",
+    "dna": "48fc103d34d30ba981891d662d4bcb6f227dcf23",
     "edition": 252,
-    "date": 1687519154004,
+    "date": 1687620164662,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5730,9 +5894,9 @@
     "name": "Foreverpunk #253",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/253.png",
-    "dna": "e6bc3f3f533049bd86587e56da29028e9cddd348",
+    "dna": "49622dc7abba17c493eaa17f6b1c9381e900bfb7",
     "edition": 253,
-    "date": 1687519154037,
+    "date": 1687620164706,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5741,6 +5905,10 @@
       {
         "trait_type": "Eyes-Female",
         "value": "Clown Eyes Green"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Blonde Short"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -5749,9 +5917,9 @@
     "name": "Foreverpunk #254",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/254.png",
-    "dna": "207e4850b1edf9ce07b4dcbfc374eb7d7cd95f66",
+    "dna": "28b8b1fd25bc7a862722d8e05686fe7e73f012d3",
     "edition": 254,
-    "date": 1687519154074,
+    "date": 1687620164746,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5768,9 +5936,9 @@
     "name": "Foreverpunk #255",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/255.png",
-    "dna": "afe38a018e10a5062962e417fa4cc6a32b2b5c35",
+    "dna": "bd47e56d274805f53554a146af6a9dccd00fa9d4",
     "edition": 255,
-    "date": 1687519154119,
+    "date": 1687620164788,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5791,9 +5959,9 @@
     "name": "Foreverpunk #256",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/256.png",
-    "dna": "385282e2fa4ae90800778c8a7bd34bf922e3a7e6",
+    "dna": "8e319d9d308adbb96bd6d6d5bf0b4ae85595957d",
     "edition": 256,
-    "date": 1687519154167,
+    "date": 1687620164842,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5822,9 +5990,9 @@
     "name": "Foreverpunk #257",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/257.png",
-    "dna": "16d336cc1b913b08651e5f8ce4499b6edac0f000",
+    "dna": "37e05ee8b1703d39651aed6221159bb0c0f7a726",
     "edition": 257,
-    "date": 1687519154206,
+    "date": 1687620164882,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5841,9 +6009,9 @@
     "name": "Foreverpunk #258",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/258.png",
-    "dna": "de451399b24b71492d8cc1ef8ecf2b03c3e1d770",
+    "dna": "65e29eb59d56140c6dc5d6bf382bd5de323a8866",
     "edition": 258,
-    "date": 1687519154247,
+    "date": 1687620164924,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5864,9 +6032,9 @@
     "name": "Foreverpunk #259",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/259.png",
-    "dna": "cbf69247e11cb2f5323fe414f4e48f484bc38c40",
+    "dna": "22660d72c1fb623e8dcc91d57722fd8fd0ec7c2a",
     "edition": 259,
-    "date": 1687519154294,
+    "date": 1687620164976,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5891,9 +6059,9 @@
     "name": "Foreverpunk #260",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/260.png",
-    "dna": "e4ab129f2cbceb551d2b0b097dc30f90812d8622",
+    "dna": "8cbefb40f81b4c483e8ec0f27d7c589867a768a5",
     "edition": 260,
-    "date": 1687519154344,
+    "date": 1687620165027,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5914,9 +6082,9 @@
     "name": "Foreverpunk #261",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/261.png",
-    "dna": "92548197ba1e7fb97fe8dccd8877597bad52c09a",
+    "dna": "96f3e8066f28227dc714ad90cc32a4f3b222f71b",
     "edition": 261,
-    "date": 1687519154384,
+    "date": 1687620165069,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5937,13 +6105,17 @@
     "name": "Foreverpunk #262",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/262.png",
-    "dna": "00f2f90ac7f92495a86cc73c235641c80020288f",
+    "dna": "7814d194e5e6a412cf72d15c7a0b01a937e4b89f",
     "edition": 262,
-    "date": 1687519154419,
+    "date": 1687620165110,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Dark"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Blonde Short"
       },
       {
         "trait_type": "Glasses-Female",
@@ -5956,9 +6128,9 @@
     "name": "Foreverpunk #263",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/263.png",
-    "dna": "f994c053c6c49b1bda20452ebe5aed0d1899bcde",
+    "dna": "30bb27449ad7be1b11c13fee38cdb9e06efb0d45",
     "edition": 263,
-    "date": 1687519154461,
+    "date": 1687620165157,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -5967,6 +6139,10 @@
       {
         "trait_type": "Hair-Male",
         "value": "Messy Hair"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -5975,9 +6151,9 @@
     "name": "Foreverpunk #264",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/264.png",
-    "dna": "c5955bbee4fea3f848b93f63d407cd326a642f83",
+    "dna": "99aca1dfb6dc7cc0b6faa593b4c9959ec3b94d77",
     "edition": 264,
-    "date": 1687519154506,
+    "date": 1687620165206,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -5998,9 +6174,9 @@
     "name": "Foreverpunk #265",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/265.png",
-    "dna": "fb6a89183baef3852104fa380ca937ae3cccdc0f",
+    "dna": "eb7605628d0353a0ccff1e0b1807fb81870de80f",
     "edition": 265,
-    "date": 1687519154553,
+    "date": 1687620165255,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6025,9 +6201,9 @@
     "name": "Foreverpunk #266",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/266.png",
-    "dna": "e6de23d7ccb487c8a77a864beb12322b7e30d2b9",
+    "dna": "912cc6a1528eafbea5ff05e46cef512dd556db8e",
     "edition": 266,
-    "date": 1687519154597,
+    "date": 1687620165302,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6036,6 +6212,10 @@
       {
         "trait_type": "Ears-Male",
         "value": "Earring"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
       },
       {
         "trait_type": "Glasses-Male",
@@ -6048,9 +6228,9 @@
     "name": "Foreverpunk #267",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/267.png",
-    "dna": "3049ce7511e3b3b951f0a8d30ef3426e8120d066",
+    "dna": "b7ff590c306f468c5bf629f8dc1b2609ea0cf8d4",
     "edition": 267,
-    "date": 1687519154638,
+    "date": 1687620165344,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6071,13 +6251,17 @@
     "name": "Foreverpunk #268",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/268.png",
-    "dna": "e89328b5e586f7fa7e43aa43fbec36344131a4eb",
+    "dna": "4edce24a66c0e819564d08e239f1c788c5edf575",
     "edition": 268,
-    "date": 1687519154671,
+    "date": 1687620165385,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
         "value": "Light"
+      },
+      {
+        "trait_type": "Hat-Female",
+        "value": "Knitted Cap"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -6086,9 +6270,9 @@
     "name": "Foreverpunk #269",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/269.png",
-    "dna": "361c4d0fa2a2fd6c2b4007380ffeedc7a82793a2",
+    "dna": "127e2c07e141e3662636e6054be0d69a553e5326",
     "edition": 269,
-    "date": 1687519154724,
+    "date": 1687620165442,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6117,9 +6301,9 @@
     "name": "Foreverpunk #270",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/270.png",
-    "dna": "7f10ee80934e7cd1f7724998e46e65a10eb525fd",
+    "dna": "15fe140ca53879951b5d50f06f65bc5a3ee06251",
     "edition": 270,
-    "date": 1687519154766,
+    "date": 1687620165485,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6140,9 +6324,9 @@
     "name": "Foreverpunk #271",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/271.png",
-    "dna": "ecc7c0da90d66898472af6cae7c169a1de150e7b",
+    "dna": "8e9c165ecefa727cdd08a1da7f48cfca216b2e6f",
     "edition": 271,
-    "date": 1687519154795,
+    "date": 1687620165516,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6155,9 +6339,9 @@
     "name": "Foreverpunk #272",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/272.png",
-    "dna": "d2f2da2ac4800e740b438d3c20f8cf43a5f8e5eb",
+    "dna": "f4068805106856afd35ae130e3197c15f8e0bbab",
     "edition": 272,
-    "date": 1687519154842,
+    "date": 1687620165562,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6178,9 +6362,9 @@
     "name": "Foreverpunk #273",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/273.png",
-    "dna": "451c83e035e9b87509fda6ff70af6c47b136e163",
+    "dna": "23f23a9f95f534e3535bc2b47c0a230527d23d39",
     "edition": 273,
-    "date": 1687519154892,
+    "date": 1687620165610,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6201,9 +6385,9 @@
     "name": "Foreverpunk #274",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/274.png",
-    "dna": "a72fedb1ba16d955b2b5d90482d559d021e23a7f",
+    "dna": "39ec61b6089d5a05fd1f462882beac2e2a0bd0aa",
     "edition": 274,
-    "date": 1687519154936,
+    "date": 1687620165655,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6228,9 +6412,9 @@
     "name": "Foreverpunk #275",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/275.png",
-    "dna": "9a8e35a429fcf8b43a2c4e4d11562dd8544caf46",
+    "dna": "2b10c35544ef07e608787c01ef160d0bc6dbc2bf",
     "edition": 275,
-    "date": 1687519154973,
+    "date": 1687620165694,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6251,9 +6435,9 @@
     "name": "Foreverpunk #276",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/276.png",
-    "dna": "3f62fd48be25597713b7e849a1eb08ccb280f380",
+    "dna": "5482f6becb88b688acffe1f6fb8d0ee52021a99e",
     "edition": 276,
-    "date": 1687519155006,
+    "date": 1687620165734,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6266,9 +6450,9 @@
     "name": "Foreverpunk #277",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/277.png",
-    "dna": "88b2bb603fef2f2337dc5be626a879ff7fa56c59",
+    "dna": "9aa57897eea429f412dff652fb5eba63d633abfa",
     "edition": 277,
-    "date": 1687519155047,
+    "date": 1687620165776,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6285,9 +6469,9 @@
     "name": "Foreverpunk #278",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/278.png",
-    "dna": "415c1ccbd8cf0a0f3c7327e05cbf2be2b954508b",
+    "dna": "e766011139bb14c680118846ad0fec0ea6c1da96",
     "edition": 278,
-    "date": 1687519155082,
+    "date": 1687620165813,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6308,9 +6492,9 @@
     "name": "Foreverpunk #279",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/279.png",
-    "dna": "fa0c5f752c96253deddaefa45eb9a3b4745a382a",
+    "dna": "f32e03cf2d078195c8b90d5ef70249331c0d60d1",
     "edition": 279,
-    "date": 1687519155128,
+    "date": 1687620165856,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6335,9 +6519,9 @@
     "name": "Foreverpunk #280",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/280.png",
-    "dna": "2f2a251302cd027d697577dbbf8bb971050ac08b",
+    "dna": "8d93db0edb07120a6d8eb422ba8634dc1384ae65",
     "edition": 280,
-    "date": 1687519155163,
+    "date": 1687620165892,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6354,9 +6538,9 @@
     "name": "Foreverpunk #281",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/281.png",
-    "dna": "ed650d153347b211b7e04351273df618a8250ee5",
+    "dna": "32ec03520c1add6b4a88627717810eb9e84063f8",
     "edition": 281,
-    "date": 1687519155197,
+    "date": 1687620165927,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6369,9 +6553,9 @@
     "name": "Foreverpunk #282",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/282.png",
-    "dna": "1575b4632ca71da505e919221b612e96fe3d8670",
+    "dna": "057de1cac5d232992448a6cdb17d92351b9545dc",
     "edition": 282,
-    "date": 1687519155230,
+    "date": 1687620165966,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6380,6 +6564,10 @@
       {
         "trait_type": "Hair-Female",
         "value": "Straight Hair Dark"
+      },
+      {
+        "trait_type": "Glasses-Female",
+        "value": "Classic Shades"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -6388,9 +6576,9 @@
     "name": "Foreverpunk #283",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/283.png",
-    "dna": "b707e8a888fa465ef3173bbb300925c3446aa89d",
+    "dna": "ebe439ea96632a3ec24673ff2ae674f2b6eff822",
     "edition": 283,
-    "date": 1687519155266,
+    "date": 1687620166003,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6407,9 +6595,9 @@
     "name": "Foreverpunk #284",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/284.png",
-    "dna": "56ebb18f47b31aff7594d845af6267b66bfabf09",
+    "dna": "bcc8c62a2da3121801b4ff30cc3937cd7ea6fcdc",
     "edition": 284,
-    "date": 1687519155300,
+    "date": 1687620166044,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6426,9 +6614,9 @@
     "name": "Foreverpunk #285",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/285.png",
-    "dna": "c866d071d858ccb8d9732a834b06cf49455863ca",
+    "dna": "44ca9eea0c1505eafd3327e2da4270f7b02f6987",
     "edition": 285,
-    "date": 1687519155336,
+    "date": 1687620166089,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6437,6 +6625,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Purple Lipstick"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Dark Hair"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -6445,9 +6637,9 @@
     "name": "Foreverpunk #286",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/286.png",
-    "dna": "6476104c09b762cc4a4f8325a2db871b5042ba03",
+    "dna": "a0190755da7d8ad63c6e583ffde5ef9341fec8e8",
     "edition": 286,
-    "date": 1687519155381,
+    "date": 1687620166138,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6468,9 +6660,9 @@
     "name": "Foreverpunk #287",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/287.png",
-    "dna": "e2446ee0b4c55595a3d8a034873272bbcf92f4f8",
+    "dna": "48e28f97209f9ca4a709f2b066bb660224a7820a",
     "edition": 287,
-    "date": 1687519155433,
+    "date": 1687620166187,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6495,9 +6687,9 @@
     "name": "Foreverpunk #288",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/288.png",
-    "dna": "c9751fb76e9159bd9bfa51b3f6719457b2a5e5b0",
+    "dna": "de5ef36175a804ef89379cb04b9dc526544268b4",
     "edition": 288,
-    "date": 1687519155470,
+    "date": 1687620166223,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6514,9 +6706,9 @@
     "name": "Foreverpunk #289",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/289.png",
-    "dna": "ce0ce8cceeda6d8c1fe036d0dc6cea873573058a",
+    "dna": "42ddcfd405439941ff77017136b00bc5203f8e64",
     "edition": 289,
-    "date": 1687519155509,
+    "date": 1687620166265,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6537,9 +6729,9 @@
     "name": "Foreverpunk #290",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/290.png",
-    "dna": "05d2aae700271434ffd423685baa114445d08977",
+    "dna": "486e361a487ae46c57127c9037768a9d057a8002",
     "edition": 290,
-    "date": 1687519155559,
+    "date": 1687620166316,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6556,9 +6748,9 @@
     "name": "Foreverpunk #291",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/291.png",
-    "dna": "33fd6285f69c98fc0f4474e552c9967120f064f4",
+    "dna": "3e36576c9ad063185dd4e764a4b87f13c27854d7",
     "edition": 291,
-    "date": 1687519155595,
+    "date": 1687620166359,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6579,9 +6771,9 @@
     "name": "Foreverpunk #292",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/292.png",
-    "dna": "9395e53d2712d17cef2f8ade9588895eefd968b1",
+    "dna": "0858ecf2dbc6c94745ed6cf3fc2ff09f978fa5f8",
     "edition": 292,
-    "date": 1687519155630,
+    "date": 1687620166405,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6590,6 +6782,10 @@
       {
         "trait_type": "Mouth-Female",
         "value": "Black Lipstick"
+      },
+      {
+        "trait_type": "Hair-Female",
+        "value": "Tassle Hat"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -6598,9 +6794,9 @@
     "name": "Foreverpunk #293",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/293.png",
-    "dna": "8f310c75cae1f4a9ba3d2180717b261a24e78fbb",
+    "dna": "2a815cd07b35a956031d8b67b9037de706f1b444",
     "edition": 293,
-    "date": 1687519155670,
+    "date": 1687620166447,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6621,9 +6817,9 @@
     "name": "Foreverpunk #294",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/294.png",
-    "dna": "ab943ed2cb39246c8409bf521dad51b61d8acf85",
+    "dna": "7e4e6643a3309c0b370cf9648a1c224fa992888a",
     "edition": 294,
-    "date": 1687519155720,
+    "date": 1687620166496,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6648,9 +6844,9 @@
     "name": "Foreverpunk #295",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/295.png",
-    "dna": "0b5c80525c2c2826b8004b5d0182f2fc16c1dc25",
+    "dna": "0c6e57e51e6a38379212dc8939298b2809bc1f09",
     "edition": 295,
-    "date": 1687519155757,
+    "date": 1687620166534,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6671,9 +6867,9 @@
     "name": "Foreverpunk #296",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/296.png",
-    "dna": "e7beecc8736776b7d47fe17feb7eb95dd0d79327",
+    "dna": "bcf9efa3d2d33d86ae77ea494c96847e5ec1664c",
     "edition": 296,
-    "date": 1687519155791,
+    "date": 1687620166568,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6690,9 +6886,9 @@
     "name": "Foreverpunk #297",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/297.png",
-    "dna": "b2dbab92c072762d0556d641686fa3cc47a795d7",
+    "dna": "f6d11fc3b943b3cea4b2d3e65bde29ea501db23b",
     "edition": 297,
-    "date": 1687519155832,
+    "date": 1687620166617,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
@@ -6701,6 +6897,10 @@
       {
         "trait_type": "Hair-Male",
         "value": "Crazy Hair"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"
@@ -6709,9 +6909,9 @@
     "name": "Foreverpunk #298",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/298.png",
-    "dna": "6d4b0b552570aa221dfdd984ce08ec62a1110bdd",
+    "dna": "52a89094690a57901bbf9e8dfc88a4735a9f6aae",
     "edition": 298,
-    "date": 1687519155874,
+    "date": 1687620166660,
     "attributes": [
       {
         "trait_type": "Skin Tone-Female",
@@ -6728,13 +6928,21 @@
     "name": "Foreverpunk #299",
     "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
     "image": "ipfs://NewUriToReplace/299.png",
-    "dna": "7566811da51e0398a5a25d009121059ba4196f1f",
+    "dna": "0ccaf1d4cff9fb770cd1a30e2395aee6aa6076d5",
     "edition": 299,
-    "date": 1687519155907,
+    "date": 1687620166702,
     "attributes": [
       {
         "trait_type": "Skin Tone-Male",
         "value": "Dark"
+      },
+      {
+        "trait_type": "Hat-Male",
+        "value": "Do-rag"
+      },
+      {
+        "trait_type": "Beard-Male",
+        "value": "Muttonchops"
       }
     ],
     "compiler": "HashLips Art Engine"

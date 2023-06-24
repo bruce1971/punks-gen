@@ -2,9 +2,9 @@
   "name": "Foreverpunk #125",
   "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
   "image": "ipfs://NewUriToReplace/125.png",
-  "dna": "a51d0c79a0d4bc74185c87888874a7f70832e5b2",
+  "dna": "61f792b42a1e984eb5d76846f716cac8e4ca4e38",
   "edition": 125,
-  "date": 1687519148619,
+  "date": 1687620159020,
   "attributes": [
     {
       "trait_type": "Skin Tone-Female",
@@ -13,6 +13,10 @@
     {
       "trait_type": "Mouth-Female",
       "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Hair-Female",
+      "value": "Tassle Hat"
     },
     {
       "trait_type": "Glasses-Female",

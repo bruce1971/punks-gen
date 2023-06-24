@@ -2,13 +2,17 @@
   "name": "Foreverpunk #228",
   "description": "3D models of paying tribute to the 10,000 original Cryptopunks.",
   "image": "ipfs://NewUriToReplace/228.png",
-  "dna": "78df246ee780ac762662f1a66d885fa0f84ec7eb",
+  "dna": "0234810f3d269c5dd026bbd826c3d044c231a2ae",
   "edition": 228,
-  "date": 1687519152987,
+  "date": 1687620163603,
   "attributes": [
     {
       "trait_type": "Skin Tone-Male",
       "value": "Mid"
+    },
+    {
+      "trait_type": "Hair-Male",
+      "value": "Peak Spike"
     },
     {
       "trait_type": "Glasses-Male",
